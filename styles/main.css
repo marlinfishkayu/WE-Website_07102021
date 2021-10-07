@@ -10401,6 +10401,7 @@ body:lang(SC) #liveStudio .livestudio-sec3 .bottom-deco:after {
   position: relative;
 }
 
+age-outer
 .primaryBtn::after {
   content: "";
   position: absolute;
@@ -10459,9 +10460,9 @@ body:lang(SC) #liveStudio .livestudio-sec3 .bottom-deco:after {
   background: #011b3e;
   background: linear-gradient(310deg, #011b3e 0%, #000f24 100%);
   color: #979797;
-  padding: 50px;
-  width: 80vw;
-  height: 90vh;
+  padding: 30px;
+  width: 90vw;
+  height: 80vh;
   text-align: center;
   -webkit-transition: 400ms;
   transition: 400ms;
