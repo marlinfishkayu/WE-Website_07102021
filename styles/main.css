@@ -1441,7 +1441,6 @@ button:focus {
   height: 100%;
   left: -100%;
   z-index: 5;
-  overflow-y: scroll;
   background: #060B1A;
 }
 
@@ -1564,11 +1563,6 @@ button:focus {
 .sidebar {
   -webkit-transition: 0.4s all;
   transition: 0.4s all;
-}
-
-.sidebar .side-wrap {
-  overflow-y: scroll;
-  overflow-x: hidden;
 }
 
 .sidebar .clickable {

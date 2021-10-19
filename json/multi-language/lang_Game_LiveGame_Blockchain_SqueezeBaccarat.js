@@ -26,6 +26,12 @@ var arrLang = {
       'BlockchainDragonTiger': 'Blockchain Dragon Tiger',
       'BlockchainSpeedBaccarat': 'Blockchain Speed Baccarat',
       'BlockchainSqueezeBaccarat': 'Blockchain Squeeze Baccarat',
+      'BlockchainMahjongLuckyWheel': 'Blockchain Mahjong Lucky Wheel',
+      'BlockchainSicBo': 'Blockchain Sic Bo',
+      'BlockchainRoulette': 'Blockchain Roulette',
+      'BlockchainWinThreeCards': 'Blockchain Win Three Cards',
+      'BlockchainBullBull': 'Blockchain Bull Bull',
+      'BullBull': 'Bull Bull',
       'Baccarat': 'Baccarat',
       'Roulette': 'Roulette',
       'SicBo': 'Sic Bo',
@@ -56,6 +62,16 @@ var arrLang = {
       'BlockchainSpeedBaccarat_2': 'Speed Baccarat',
       'BlockchainDragonTiger_1': 'Blockchain',
       'BlockchainDragonTiger_2': 'Dragon Tiger',
+      'BC_Roulette_1': 'Blockchain',
+      'BC_Roulette_2': 'Roulette',
+      'BC_SicBo_1': 'Blockchain',
+      'BC_SicBo_2': 'SicBo',
+      'BC_MahjongLuckyWheel_1': 'Blockchain',
+      'BC_MahjongLuckyWheel_2': 'Mahjong Lucky Wheel',
+      'BC_WinThreeCards_1': 'Blockchain',
+      'BC_WinThreeCards_2': 'WinThreeCards',
+      'BC_BullBull_1': 'Blockchain',
+      'BC_BullBull_2': 'BullBull',
 
       //Game Slogan
       'Baccarat_slogan': 'WE play beyond classic.',
@@ -70,6 +86,12 @@ var arrLang = {
       'SpeedBaccarat_slogan': 'Speedy and mind-blowing.',
       'Lotto5_slogan': 'Thrill ball game with attractive odds.',
       'PK10_slogan': 'Let’s PK the racing',
+      'BC_MahjongLuckyWheel_slogan': 'Brand new experience of lucky wheel',
+      'BC_SicBo_slogan': 'Roll the dice, win the prize',
+      'BC_Roulette_slogan': 'The ultimate European-style play experience',
+      'BC_WinThreeCards_slogan': 'Brand new experience of lucky wheel',
+      'BC_BullBull_slogan': 'Brand new experience of lucky wheel',
+
 
       //Cookie popup
       'Cookie_p1' : 'WE use cookies to ensure you get the best experience on our website. WE will assume you have agreed to our Privacy Policy by continuing to use our website henceforth.',
@@ -142,6 +164,12 @@ var arrLang = {
       'BlockchainDragonTiger': '區塊鏈龍虎',
       'BlockchainSpeedBaccarat': '區塊鏈極速百家樂',
       'BlockchainSqueezeBaccarat': '區塊鏈共咪百家樂',
+      'BlockchainMahjongLuckyWheel': '區塊鏈麻雀幸運輪',
+      'BlockchainSicBo': '區塊鏈骰寶',
+      'BlockchainRoulette': '區塊鏈輪盤',
+      'BlockchainWinThreeCards': '區塊鏈炸金花',
+      'BlockchainBullBull': '區塊鏈牛牛',
+      'BullBull': '牛牛',
       'Baccarat': '百家樂',
       'Baccarat_slogan': '保留經典，再創高峰！',
       'Roulette': '輪盤',
@@ -173,6 +201,16 @@ var arrLang = {
       'BlockchainSpeedBaccarat_2': '',
       'BlockchainDragonTiger_1': '區塊鏈龍虎',
       'BlockchainDragonTiger_2': '',
+      'BC_Roulette_1': '區塊鏈輪盤',
+      'BC_Roulette_2': '',
+      'BC_SicBo_1': '區塊鏈骰寶',
+      'BC_SicBo_2': '',
+      'BC_MahjongLuckyWheel_1': '區塊鏈麻雀幸運輪',
+      'BC_MahjongLuckyWheel_2': '',
+      'BC_WinThreeCards_1': '區塊鏈炸金花',
+      'BC_WinThreeCards_2': '',
+      'BC_BullBull_1': '區塊鏈牛牛',
+      'BC_BullBull_2': '',
 
       //Game Slogan
       'Baccarat_slogan': '保留經典，再創高峰！',
@@ -187,6 +225,11 @@ var arrLang = {
       'SpeedBaccarat_slogan': '高速快感，讓人心跳加速。',
       'Lotto5_slogan': '最高賠率彩球遊戲。',
       'PK10_slogan':'競速賽車，等你來PK。',
+      'BC_MahjongLuckyWheel_slogan': '轉出嶄新驚喜。',
+      'BC_SicBo_slogan': '一擲定輸贏。',
+      'BC_Roulette_slogan': '極緻歐式玩樂體驗。',
+      'BC_WinThreeCards_slogan': '金龍銀鳳迸出非凡新意。',
+      'BC_BullBull_slogan': '史上最牛掰的遊戲。',
   
       //Cookie popup
       'Cookie_p1' : '本網站使用COOKIES以確保你在我們網站上獲得最佳使用體驗。如果你繼續使用本網站，這將被認為你已同意本網站隱私政策。',
@@ -259,6 +302,12 @@ var arrLang = {
       'BlockchainDragonTiger': '区块链龙虎',
       'BlockchainSpeedBaccarat': '区块链极速百家乐',
       'BlockchainSqueezeBaccarat': '区块链共咪百家乐',
+      'BlockchainMahjongLuckyWheel': '区块链麻雀幸运轮',
+      'BlockchainSicBo': '区块链骰宝',
+      'BlockchainRoulette': '区块链轮盘',
+      'BlockchainWinThreeCards': '区块链炸金花',
+      'BlockchainBullBull': '区块链牛牛',
+      'BullBull': '牛牛',
       'Baccarat': '百家乐',
       'Baccarat_slogan': '保留经典，再创高峰！',
       'Roulette': '轮盘',
@@ -290,7 +339,16 @@ var arrLang = {
       'BlockchainSpeedBaccarat_2': '',
       'BlockchainDragonTiger_1': '区块链龙虎',
       'BlockchainDragonTiger_2': '',
-
+      'BC_Roulette_1': '区块链轮盘',
+      'BC_Roulette_2': '',
+      'BC_SicBo_1': '区块链骰宝',
+      'BC_SicBo_2': '',
+      'BC_MahjongLuckyWheel_1': '区块链麻雀幸运轮',
+      'BC_MahjongLuckyWheel_2': '',
+      'BC_WinThreeCards_1': '区块链炸金花',
+      'BC_WinThreeCards_2': '',
+      'BC_BullBull_1': '区块链牛牛',
+      'BC_BullBull_2': '',
 
       //Game Slogan
       'Baccarat_slogan': '保留经典，再创高峰！',
@@ -305,6 +363,11 @@ var arrLang = {
       'SpeedBaccarat_slogan': '高速快感，让人心跳加速。',
       'Lotto5_slogan': '最高赔率彩球游戏。',
       'PK10_slogan':'竞速赛车，等你来PK。',
+      'BC_MahjongLuckyWheel_slogan': '转出黎明惊喜。',
+      'BC_SicBo_slogan': '一掷定输赢。',
+      'BC_Roulette_slogan': '极致欧式玩乐体验。',
+      'BC_WinThreeCards_slogan': '金龙银凤迸出非凡新意。',
+      'BC_BullBull_slogan': '史上最牛掰的游戏。',
   
       //Cookie popup
       'Cookie_p1' : '本网站使用COOKIES以确保你在我们网站上获得最佳使用体验。如果你继续使用本网站，这将被认为你已同意本网站隐私政策。',
@@ -360,10 +423,10 @@ var arrImg = {
       //all lotteries
       'AllLotteriesBtn':'./images/menu/allBtn/en/all_lotteries_btn.svg',
       //UI
-      'UI': ' images/game/game_Blockchain_SqueezeBaccarat/en/game_UI_BC_SqueezeBaccarat_x1.png 500w, images/game/game_Blockchain_SqueezeBaccarat/en/game_UI_BC_SqueezeBaccarat_x2.png 1000w',
+      'UI': ' images/game/game_BC_SqueezeBaccarat/en/game_UI_BC_SqueezeBaccarat_x1.png 500w, images/game/game_BC_SqueezeBaccarat/en/game_UI_BC_SqueezeBaccarat_x2.png 1000w',
       //Feature
-      'feature2': 'images/game/game_Blockchain_SqueezeBaccarat/en/game_BC_SqueezeBaccarat_feature2_1x.png 500w, images/game/game_Blockchain_SqueezeBaccarat/en/game_BC_SqueezeBaccarat_feature2_2x.png 1000w',
-      'feature3': 'images/game/game_Blockchain_SqueezeBaccarat/en/game_BC_SqueezeBaccarat_feature3_1x.png 500w, images/game/game_Blockchain_SqueezeBaccarat/en/game_BC_SqueezeBaccarat_feature3_2x.png 1000w', 
+      'feature2': 'images/game/game_BC_SqueezeBaccarat/en/game_BC_SqueezeBaccarat_feature2_1x.png 500w, images/game/game_BC_SqueezeBaccarat/en/game_BC_SqueezeBaccarat_feature2_2x.png 1000w',
+      'feature3': 'images/game/game_BC_SqueezeBaccarat/en/game_BC_SqueezeBaccarat_feature3_1x.png 500w, images/game/game_BC_SqueezeBaccarat/en/game_BC_SqueezeBaccarat_feature3_2x.png 1000w', 
     }],
   'TC': [{
       //WE Logo
@@ -373,10 +436,10 @@ var arrImg = {
       //all lotteries
       'AllLotteriesBtn':'./images/menu/allBtn/tc/allgames.svg',
       //UI
-      'UI': 'images/game/game_Blockchain_SqueezeBaccarat/tc/game_UI_BC_SqueezeBaccarat_x1.png 500w ,images/game/game_Blockchain_SqueezeBaccarat/tc/game_UI_BC_SqueezeBaccarat_x2.png 1000w',
+      'UI': 'images/game/game_BC_SqueezeBaccarat/tc/game_UI_BC_SqueezeBaccarat_x1.png 500w ,images/game/game_BC_SqueezeBaccarat/tc/game_UI_BC_SqueezeBaccarat_x2.png 1000w',
       //Feature
-      'feature2': 'images/game/game_Blockchain_SqueezeBaccarat/tc/game_BC_SqueezeBaccarat_feature2_1x.png 500w, images/game/game_Blockchain_SqueezeBaccarat/tc/game_BC_SqueezeBaccarat_feature2_2x.png 1000w',
-      'feature3': 'images/game/game_Blockchain_SqueezeBaccarat/tc/game_BC_SqueezeBaccarat_feature3_1x.png 500w, images/game/game_Blockchain_SqueezeBaccarat/tc/game_BC_SqueezeBaccarat_feature3_2x.png 1000w', 
+      'feature2': 'images/game/game_BC_SqueezeBaccarat/tc/game_BC_SqueezeBaccarat_feature2_1x.png 500w, images/game/game_BC_SqueezeBaccarat/tc/game_BC_SqueezeBaccarat_feature2_2x.png 1000w',
+      'feature3': 'images/game/game_BC_SqueezeBaccarat/tc/game_BC_SqueezeBaccarat_feature3_1x.png 500w, images/game/game_BC_SqueezeBaccarat/tc/game_BC_SqueezeBaccarat_feature3_2x.png 1000w', 
     }],
   'SC': [{
       //WE Logo
@@ -386,9 +449,9 @@ var arrImg = {
       //all lotteries
       'AllLotteriesBtn':'./images/menu/allBtn/sc/allgames.svg',
       //UI
-      'UI': 'images/game/game_Blockchain_SqueezeBaccarat/sc/game_UI_BC_SqueezeBaccarat_x1.png 500w , images/game/game_Blockchain_SqueezeBaccarat/sc/game_UI_BC_SqueezeBaccarat_x2.png 1000w',
+      'UI': 'images/game/game_BC_SqueezeBaccarat/sc/game_UI_BC_SqueezeBaccarat_x1.png 500w , images/game/game_BC_SqueezeBaccarat/sc/game_UI_BC_SqueezeBaccarat_x2.png 1000w',
       //Feature
-      'feature2': 'images/game/game_Blockchain_SqueezeBaccarat/sc/game_BC_SqueezeBaccarat_feature2_1x.png 500w, images/game/game_Blockchain_SqueezeBaccarat/sc/game_BC_SqueezeBaccarat_feature2_2x.png 1000w',
-      'feature3': 'images/game/game_Blockchain_SqueezeBaccarat/sc/game_BC_SqueezeBaccarat_feature3_1x.png 500w, images/game/game_Blockchain_SqueezeBaccarat/sc/game_BC_SqueezeBaccarat_feature3_2x.png 1000w',
+      'feature2': 'images/game/game_BC_SqueezeBaccarat/sc/game_BC_SqueezeBaccarat_feature2_1x.png 500w, images/game/game_BC_SqueezeBaccarat/sc/game_BC_SqueezeBaccarat_feature2_2x.png 1000w',
+      'feature3': 'images/game/game_BC_SqueezeBaccarat/sc/game_BC_SqueezeBaccarat_feature3_1x.png 500w, images/game/game_BC_SqueezeBaccarat/sc/game_BC_SqueezeBaccarat_feature3_2x.png 1000w',
     }]
 };

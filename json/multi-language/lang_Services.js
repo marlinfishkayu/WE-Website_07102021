@@ -56,6 +56,16 @@ var arrLang = {
     'BlockchainSpeedBaccarat_2': 'Speed Baccarat',
     'BlockchainDragonTiger_1': 'Blockchain',
     'BlockchainDragonTiger_2': 'Dragon Tiger',
+    'BC_Roulette_1': 'Blockchain',
+    'BC_Roulette_2': 'Roulette',
+    'BC_SicBo_1': 'Blockchain',
+    'BC_SicBo_2': 'SicBo',
+    'BC_MahjongLuckyWheel_1': 'Blockchain',
+    'BC_MahjongLuckyWheel_2': 'Mahjong Lucky Wheel',
+    'BC_WinThreeCards_1': 'Blockchain',
+    'BC_WinThreeCards_2': 'WinThreeCards',
+    'BC_BullBull_1': 'Blockchain',
+    'BC_BullBull_2': 'BullBull',
 
     //Cookie popup
     'Cookie_p1' : 'WE use cookies to ensure you get the best experience on our website. WE will assume you have agreed to our Privacy Policy by continuing to use our website henceforth.',
@@ -167,6 +177,16 @@ var arrLang = {
     'BlockchainSpeedBaccarat_2': '',
     'BlockchainDragonTiger_1': '區塊鏈龍虎',
     'BlockchainDragonTiger_2': '',
+    'BC_Roulette_1': '區塊鏈輪盤',
+    'BC_Roulette_2': '',
+    'BC_SicBo_1': '區塊鏈骰寶',
+    'BC_SicBo_2': '',
+    'BC_MahjongLuckyWheel_1': '區塊鏈麻雀幸運輪',
+    'BC_MahjongLuckyWheel_2': '',
+    'BC_WinThreeCards_1': '區塊鏈炸金花',
+    'BC_WinThreeCards_2': '',
+    'BC_BullBull_1': '區塊鏈牛牛',
+    'BC_BullBull_2': '',
 
     //Cookie popup
     'Cookie_p1' : '本網站使用COOKIES以確保你在我們網站上獲得最佳使用體驗。如果你繼續使用本網站，這將被認為你已同意本網站隱私政策。',
@@ -276,6 +296,16 @@ var arrLang = {
     'BlockchainSpeedBaccarat_2': '',
     'BlockchainDragonTiger_1': '区块链龙虎',
     'BlockchainDragonTiger_2': '',
+    'BC_Roulette_1': '区块链轮盘',
+    'BC_Roulette_2': '',
+    'BC_SicBo_1': '区块链骰宝',
+    'BC_SicBo_2': '',
+    'BC_MahjongLuckyWheel_1': '区块链麻雀幸运轮',
+    'BC_MahjongLuckyWheel_2': '',
+    'BC_WinThreeCards_1': '区块链炸金花',
+    'BC_WinThreeCards_2': '',
+    'BC_BullBull_1': '区块链牛牛',
+    'BC_BullBull_2': '',
 
 
     //Cookie popup
