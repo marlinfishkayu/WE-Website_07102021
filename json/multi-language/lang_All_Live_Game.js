@@ -342,7 +342,7 @@ var arrLang = {
       'BC_MahjongLuckyWheel_slogan': '转出黎明惊喜。',
       'BC_SicBo_slogan': '一掷定输赢。',
       'BC_Roulette_slogan': '极致欧式玩乐体验。',
-      'BC_WinThreeCards_slogan': '金龙银凤迸出非凡新意。',
+      'BC_WinThreeCards_slogan': '兩門對決，三張定勝負。',
       'BC_BullBull_slogan': '史上最牛掰的游戏。',
   
       //Cookie popup

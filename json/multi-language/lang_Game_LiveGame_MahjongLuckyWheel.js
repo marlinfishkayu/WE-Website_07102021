@@ -230,7 +230,7 @@ var arrLang = {
       'BC_SicBo_slogan': '一擲定輸贏。',
       'BC_Roulette_slogan': '極緻歐式玩樂體驗。',
       'BC_WinThreeCards_slogan': '兩門對決，三張定勝負。',
-      'BC_BullBull_slogan': '史上最牛掰的遊戲。',
+      'BC_BullBull_slogan': '狂牛對戰，庄閒決雌雄。',
   
       //Cookie popup
       'Cookie_p1' : '本網站使用COOKIES以確保你在我們網站上獲得最佳使用體驗。如果你繼續使用本網站，這將被認為你已同意本網站隱私政策。',
@@ -366,11 +366,11 @@ var arrLang = {
       'SpeedBaccarat_slogan': '高速快感，让人心跳加速。',
       'Lotto5_slogan': '最高赔率彩球游戏。',
       'PK10_slogan':'竞速赛车，等你来PK。',
-      'BC_MahjongLuckyWheel_slogan': '转出黎明惊喜。',
+      'BC_MahjongLuckyWheel_slogan': '转出崭新惊喜。',
       'BC_SicBo_slogan': '一掷定输赢。',
       'BC_Roulette_slogan': '极致欧式玩乐体验。',
-      'BC_WinThreeCards_slogan': '兩門對決，三張定勝負。',
-      'BC_BullBull_slogan': '史上最牛掰的游戏。',
+      'BC_WinThreeCards_slogan': '两门对决，三张定胜负。',
+      'BC_BullBull_slogan': '狂牛对战，庄闲决雌雄。',
   
       //Cookie popup
       'Cookie_p1' : '本网站使用COOKIES以确保你在我们网站上获得最佳使用体验。如果你继续使用本网站，这将被认为你已同意本网站隐私政策。',
