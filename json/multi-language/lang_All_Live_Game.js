@@ -88,9 +88,9 @@ var arrLang = {
       'PK10_slogan': 'Let’s PK the racing',
       'BC_MahjongLuckyWheel_slogan': 'Brand new experience of lucky wheel',
       'BC_SicBo_slogan': 'Roll the dice, win the prize',
-      'BC_Roulette_slogan': 'The ultimate European-style play experience',
-      'BC_WinThreeCards_slogan': 'Brand new experience of lucky wheel',
-      'BC_BullBull_slogan': 'Brand new experience of lucky wheel',
+      'BC_Roulette_slogan': 'Ultimate European-style play experience',
+      'BC_WinThreeCards_slogan': 'One versus one, three cards to the result',
+      'BC_BullBull_slogan': 'The best game in history',
 
       //Cookie popup
       'Cookie_p1' : 'WE use cookies to ensure you get the best experience on our website. WE will assume you have agreed to our Privacy Policy by continuing to use our website henceforth.',
@@ -216,7 +216,7 @@ var arrLang = {
       'BC_MahjongLuckyWheel_slogan': '轉出嶄新驚喜。',
       'BC_SicBo_slogan': '一擲定輸贏。',
       'BC_Roulette_slogan': '極緻歐式玩樂體驗。',
-      'BC_WinThreeCards_slogan': '金龍銀鳳迸出非凡新意。',
+      'BC_WinThreeCards_slogan': '兩門對決，三張定勝負。',
       'BC_BullBull_slogan': '史上最牛掰的遊戲。',
   
       //Cookie popup

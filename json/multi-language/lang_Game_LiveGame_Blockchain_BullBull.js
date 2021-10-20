@@ -88,9 +88,9 @@ var arrLang = {
       'PK10_slogan': 'Let’s PK the racing',
       'BC_MahjongLuckyWheel_slogan': 'Brand new experience of lucky wheel',
       'BC_SicBo_slogan': 'Roll the dice, win the prize',
-      'BC_Roulette_slogan': 'The ultimate European-style play experience',
-      'BC_WinThreeCards_slogan': 'Brand new experience of lucky wheel',
-      'BC_BullBull_slogan': 'Brand new experience of lucky wheel',
+      'BC_Roulette_slogan': 'Ultimate European-style play experience',
+      'BC_WinThreeCards_slogan': 'One versus one, three cards to the result',
+      'BC_BullBull_slogan': 'The best game in history',
   
       //Cookie popup
       'Cookie_p1' : 'WE use cookies to ensure you get the best experience on our website. WE will assume you have agreed to our Privacy Policy by continuing to use our website henceforth.',
@@ -124,16 +124,16 @@ var arrLang = {
       'try_our_games': 'Try Our Games',
       //
       'LiveGames':'LIVE GAMES',
-      'gameDetail_p1': '',
-      'feature_1.1': '',
-      'feature_1.2': '',
-      'feature_1_p': '',
-      'feature_2.1': '',
-      'feature_2.2': '',
-      'feature_2_p': '',
-      'feature_3.1': '',
+      'gameDetail_p1': 'An awesome game that requires tactical thinking with luck and strength. It does have a simple game rule. Players will definitely love the game! Bull bull has multiple betting options. The "Banker" and the "Players" decide who win or lose. Players can bet "Double" and win up to 5 times the payout!',
+      'feature_1.1': 'High-end encryption,',
+      'feature_1.2': 'two-step verification',
+      'feature_1_p': 'The game results of Blockchain games are all encrypted using SHA-256 technology, and the "verified encrypted text" is announced in advance. After the result is drawn, players can even generate encrypted text on a third-party independent platform. "Two-factor authentication" can ensure that the game is 100% fair and just.',
+      'feature_2.1': 'Great visual impact',
+      'feature_2.2': 'with contrast color',
+      'feature_2_p': 'The designer uses blue and red as the main colors of the game interface. The strong color matching and exciting sound effects will definitely give you a bright experience.',
+      'feature_3.1': 'Detailed game statistics',
       'feature_3.2': '',
-      'feature_3_p': '',
+      'feature_3_p': 'The game results clearly show the winning percentages and statistics of "Banker" and "Player" in the recent 20 rounds and 100 rounds. Players can refer to the records and easily deploy the next round.',
     },
   
   
@@ -229,7 +229,7 @@ var arrLang = {
       'BC_MahjongLuckyWheel_slogan': '轉出嶄新驚喜。',
       'BC_SicBo_slogan': '一擲定輸贏。',
       'BC_Roulette_slogan': '極緻歐式玩樂體驗。',
-      'BC_WinThreeCards_slogan': '金龍銀鳳迸出非凡新意。',
+      'BC_WinThreeCards_slogan': '兩門對決，三張定勝負。',
       'BC_BullBull_slogan': '史上最牛掰的遊戲。',
   
       //Cookie popup
@@ -369,7 +369,7 @@ var arrLang = {
       'BC_MahjongLuckyWheel_slogan': '转出黎明惊喜。',
       'BC_SicBo_slogan': '一掷定输赢。',
       'BC_Roulette_slogan': '极致欧式玩乐体验。',
-      'BC_WinThreeCards_slogan': '金龙银凤迸出非凡新意。',
+      'BC_WinThreeCards_slogan': '兩門對決，三張定勝負。',
       'BC_BullBull_slogan': '史上最牛掰的游戏。',
       
       //Cookie popup
@@ -431,7 +431,6 @@ var arrImg = {
       'UI': './images/game/game_BC_BullBull/en/game_UI_BC_BullBull_x1.png 1x,images/game/game_BC_BullBull/en/game_UI_BC_BullBull_x2.png 2x',
       //Feature
       'feature1': 'images/game/game_BC_BullBull/en/game_BC_BullBull_feature1_1x.png 500w, images/game/game_BC_BullBull/en/game_BC_BullBull_feature1_2x.png 1000w',
-      'feature2': 'images/game/game_BC_BullBull/en/game_BC_BullBull_feature2_1x.png 500w, images/game/game_BC_BullBull/en/game_BC_BullBull_feature2_2x.png 1000w',
       'feature3': 'images/game/game_BC_BullBull/en/game_BC_BullBull_feature3_1x.png 500w, images/game/game_BC_BullBull/en/game_BC_BullBull_feature3_2x.png 1000w',
     }],
   'TC': [{
@@ -445,7 +444,6 @@ var arrImg = {
       'UI': 'images/game/game_BC_BullBull/tc/game_UI_BC_BullBull_x1.png 1x ,images/game/game_BC_BullBull/tc/game_UI_BC_BullBull_x2.png 2x',
       //Feature
       'feature1': 'images/game/game_BC_BullBull/tc/game_BC_BullBull_feature1_1x.png 500w, images/game/game_BC_BullBull/tc/game_BC_BullBull_feature1_2x.png 1000w',
-      'feature2': 'images/game/game_BC_BullBull/tc/game_BC_BullBull_feature2_1x.png 500w, images/game/game_BC_BullBull/tc/game_BC_BullBull_feature2_2x.png 1000w',
       'feature3': 'images/game/game_BC_BullBull/tc/game_BC_BullBull_feature3_1x.png 500w, images/game/game_BC_BullBull/tc/game_BC_BullBull_feature3_2x.png 1000w',  
     }],
   'SC': [{
@@ -459,7 +457,6 @@ var arrImg = {
       'UI': 'images/game/game_BC_BullBull/sc/game_UI_BC_BullBull_x1.png 1x ,images/game/game_BC_BullBull/sc/game_UI_BC_BullBull_x2.png 2x',
       //Feature
       'feature1': 'images/game/game_BC_BullBull/sc/game_BC_BullBull_feature1_1x.png 500w, images/game/game_BC_BullBull/sc/game_BC_BullBull_feature1_2x.png 1000w',
-      'feature2': 'images/game/game_BC_BullBull/sc/game_BC_BullBull_feature2_1x.png 500w, images/game/game_BC_BullBull/sc/game_BC_BullBull_feature2_2x.png 1000w',
       'feature3': 'images/game/game_BC_BullBull/sc/game_BC_BullBull_feature3_1x.png 500w, images/game/game_BC_BullBull/sc/game_BC_BullBull_feature3_2x.png 1000w',  
     }]
 };

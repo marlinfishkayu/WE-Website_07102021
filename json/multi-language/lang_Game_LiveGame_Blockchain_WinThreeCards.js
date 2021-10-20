@@ -88,9 +88,9 @@ var arrLang = {
       'PK10_slogan': 'Let’s PK the racing',
       'BC_MahjongLuckyWheel_slogan': 'Brand new experience of lucky wheel',
       'BC_SicBo_slogan': 'Roll the dice, win the prize',
-      'BC_Roulette_slogan': 'The ultimate European-style play experience',
-      'BC_WinThreeCards_slogan': 'Brand new experience of lucky wheel',
-      'BC_BullBull_slogan': 'Brand new experience of lucky wheel',
+      'BC_Roulette_slogan': 'Ultimate European-style play experience',
+      'BC_WinThreeCards_slogan': 'One versus one, three cards to the result',
+      'BC_BullBull_slogan': 'The best game in history',
   
       //Cookie popup
       'Cookie_p1' : 'WE use cookies to ensure you get the best experience on our website. WE will assume you have agreed to our Privacy Policy by continuing to use our website henceforth.',
@@ -124,16 +124,16 @@ var arrLang = {
       'try_our_games': 'Try Our Games',
       //
       'LiveGames':'LIVE GAMES',
-      'gameDetail_p1': '',
-      'feature_1.1': '',
-      'feature_1.2': '',
-      'feature_1_p': '',
-      'feature_2.1': '',
-      'feature_2.2': '',
-      'feature_2_p': '',
-      'feature_3.1': '',
-      'feature_3.2': '',
-      'feature_3_p': '',
+      'gameDetail_p1': 'Both players are distributed three cards. Whoever has the higher card combination or points becomes the winner. WE deliberately named the two main betting areas "Gold" and "Silver", together with special betting areas such as "Pair 8 and above", "Straight", "Flush", "Straight Flush" and "Three of a Kind" to ensure that players are attracted. Get unlimited surprises in a game with odds up to 120 times!',
+      'feature_1.1': 'High-end encrypted cards,',
+      'feature_1.2': 'which are 100% free from tampering',
+      'feature_1_p': 'Every card on the game is encrypted by SHA-256 technology, and the advanced level of confidentiality and super-level security are sufficient to prevent any form of tampering. After the result of the game is released, players can even verify the cards through an independent platform to ensure fairness and justice.',
+      'feature_2.1': 'Gold and silver dragon',
+      'feature_2.2': 'in bright style',
+      'feature_2_p': 'WE breaks through the traditional framework and names the two main betting areas of the Golden Flower Game with "Gold" and "Silver", with the theme of gold and silver dragons. When the "Gold"/"Silver" side wins, the 3d picture of "Golden Dragon"/"Silver Dragon" with flashing special effects will show the winning side of the game. Allowing players to find a different dazzling visual shock in a classic game.',
+      'feature_3.1': 'Accurate roadmap and',
+      'feature_3.2': 'detailed game record',
+      'feature_3_p': 'This game is equipped with a complete roadmap, accompanied by statistics on the wins of the two main betting areas and the appearance of various card types. In terms of game records, it shows the recent game result of "Gold" and "Silver". The card type and the winning side allow players to grasp the context of the game in one hand, determine the direction, and gain insight into the first opportunity.',
     },
   
   
@@ -229,7 +229,7 @@ var arrLang = {
       'BC_MahjongLuckyWheel_slogan': '轉出嶄新驚喜。',
       'BC_SicBo_slogan': '一擲定輸贏。',
       'BC_Roulette_slogan': '極緻歐式玩樂體驗。',
-      'BC_WinThreeCards_slogan': '金龍銀鳳迸出非凡新意。',
+      'BC_WinThreeCards_slogan': '兩門對決，三張定勝負。',
       'BC_BullBull_slogan': '史上最牛掰的遊戲。',
   
       //Cookie popup
@@ -264,16 +264,16 @@ var arrLang = {
       'try_our_games': '免費試玩',
       //
       'LiveGames':'真人遊戲',
-      'gameDetail_p1': '區塊鏈炸金花具有獨特比牌規則，簡單又有趣。設有多個投注選項，玩家可以投注「金」、「銀」，以及其他特殊牌型；押中「豹子」更可贏得120倍獎賞！',
-      'feature_1.1': '高端加密',
-      'feature_1.2': '雙重驗證',
-      'feature_1_p': '區塊鏈炸金花的遊戲結果均使用SHA-256技術加密，而「驗證加密文」則提前公布。開出結果後，玩家更可第三方獨立平台生成加密文「雙重驗證」可以確保遊戲百份百公平、公正。',
-      'feature_2.1': '創新主題',
-      'feature_2.2': '耳目一新',
-      'feature_2_p': '動畫師以頂尖技術及創新精神，在區塊鏈炸金花的動畫製作過程中採用2D及3D技術來提升視覺特效。特別是帶動感的太空艙設計，配上科幻感的音效，呈現出獨一無二的金屬質感。',
-      'feature_3.1': '展示實時數據',
-      'feature_3.2': '勝券在握',
-      'feature_3_p': '為了讓玩家更能掌握遊戲走勢，炸金花特設過往近20局及近100局的「金」、「銀」及「和」結果比例及統計圖表，再以路紙模式展示開出「金」及「銀」總數及總局數，遊戲趨勢盡在掌握！',
+      'gameDetail_p1': '炸金花又名「鬥三張」，兩家各派3張牌，誰的卡牌組合或點數較大，即成為贏家。WE特意將兩門主要投注區命名為「金」、「銀」，連同「對8以上」、「順子」、「同花」、「同花順」及「豹子」等特殊投注區，保證玩家在這種賠率高達120倍的遊戲中，獲得無限驚喜！',
+      'feature_1.1': '高端加密卡牌',
+      'feature_1.2': '百分百杜絕篡改作偽',
+      'feature_1_p': '區塊鏈炸金花的每一張卡牌均透過SHA-256技術加密，先進保密程度及特級安全水平，足以杜絕任何形式的篡改作偽。遊戲開出結果後，玩家更可透過獨立平台驗證卡牌，確保公平、公正。',
+      'feature_2.1': '金龍銀龍',
+      'feature_2.2': '閃爍躍動',
+      'feature_2_p': 'WE突破傳統框架，以「金」、「銀」命名炸金花遊戲的兩門主要投注區，並配以金、銀龍為主題，當「金」/「銀」方勝出後，界面旋即立體呈現「金龍」/「銀龍」的閃爍特效，讓玩家在同樣的經典遊戲中，找到不一樣的炫目視覺震撼。',
+      'feature_3.1': '精準路紙及遊戲記錄',
+      'feature_3.2': '鉅細無遺',
+      'feature_3_p': '本遊戲設有整全的珠盤及路紙，配以兩門主要投注區的得勝及各種牌型出現的統計數據；遊戲記錄方面，則展示「金」、「銀」兩家過去多局的牌型及得勝方，讓玩家一手把握遊戲脈絡，判斷走勢，洞悉先機。',
     },
 
 
@@ -369,7 +369,7 @@ var arrLang = {
       'BC_MahjongLuckyWheel_slogan': '转出黎明惊喜。',
       'BC_SicBo_slogan': '一掷定输赢。',
       'BC_Roulette_slogan': '极致欧式玩乐体验。',
-      'BC_WinThreeCards_slogan': '金龙银凤迸出非凡新意。',
+      'BC_WinThreeCards_slogan': '兩門對決，三張定勝負。',
       'BC_BullBull_slogan': '史上最牛掰的游戏。',
   
       //Cookie popup
@@ -404,16 +404,16 @@ var arrLang = {
       'try_our_games': '免费试玩',
       //
       'LiveGames':'真人游戏',
-      'gameDetail_p1': '区块链炸金花具有独特比牌规则，简单又有趣。设有多个投注选项，玩家可以投注「金」丶「银」，以及其他特殊牌型；押中「豹子」更可赢得120倍奖赏！',
-      'feature_1.1': '高端加密',
-      'feature_1.2': '双重验证',
-      'feature_1_p': '区块链炸金花的游戏结果均使用SHA-256技术加密，而「验证加密文」则提前公布。开出结果後，玩家更可第三方独立平台生成加密文「双重验证」可以确保游戏百份百公平丶公正。',
-      'feature_2.1': '创新主题',
-      'feature_2.2': '耳目一新',
-      'feature_2_p': '动画师以顶尖技术及创新精神，在区块链炸金花的动画制作过程中采用2D及3D技术来提升视觉特效。特别是带动感的太空舱设计，配上科幻感的音效，呈现出独一无二的金属质感。',
-      'feature_3.1': '展示实时数据',
-      'feature_3.2': '胜券在握',
-      'feature_3_p': '为了让玩家更能掌握游戏走势，炸金花特设过往近20局及近100局的「金」丶「银」及「和」结果比例及统计图表，再以路纸模式展示开出「金」及「银」总数及总局数，游戏趋势尽在掌握！',
+      'gameDetail_p1': '炸金花又名「斗三张」，两家各派3张牌，谁的卡牌组合或点数较大，即成为赢家。WE特意将两门主要投注区命名为「金」丶「银」，连同「对8以上」丶「顺子」丶「同花」丶「同花顺」及「豹子」等特殊投注区，保证玩家在这种赔率高达120倍的游戏中，获得无限惊喜！',
+      'feature_1.1': '高端加密卡牌',
+      'feature_1.2': '百分百杜绝篡改作伪',
+      'feature_1_p': '区块链炸金花的每一张卡牌均透过SHA-256技术加密，先进保密程度及特级安全水平，足以杜绝任何形式的篡改作伪。游戏开出结果後，玩家更可透过独立平台验证卡牌，确保公平丶公正。',
+      'feature_2.1': '金龙银龙',
+      'feature_2.2': '闪烁跃动',
+      'feature_2_p': 'WE突破传统框架，以「金」丶「银」命名炸金花游戏的两门主要投注区，并配以金丶银龙为主题，当「金」/「银」方胜出後，界面旋即立体呈现「金龙」/「银龙」的闪烁特效，让玩家在同样的经典游戏中，找到不一样的炫目视觉震撼。',
+      'feature_3.1': '精准路纸及游戏记录',
+      'feature_3.2': '巨细无遗',
+      'feature_3_p': '本游戏设有整全的珠盘及路纸，配以两门主要投注区的得胜及各种牌型出现的统计数据；游戏记录方面，则展示「金」丶「银」两家过去多局的牌型及得胜方，让玩家一手把握游戏脉络，判断走势，洞悉先机。',
     }
   };
   

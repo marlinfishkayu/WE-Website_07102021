@@ -88,9 +88,9 @@ var arrLang = {
       'PK10_slogan': 'Let’s PK the racing',
       'BC_MahjongLuckyWheel_slogan': 'Brand new experience of lucky wheel',
       'BC_SicBo_slogan': 'Roll the dice, win the prize',
-      'BC_Roulette_slogan': 'The ultimate European-style play experience',
-      'BC_WinThreeCards_slogan': 'Brand new experience of lucky wheel',
-      'BC_BullBull_slogan': 'Brand new experience of lucky wheel',
+      'BC_Roulette_slogan': 'Ultimate European-style play experience',
+      'BC_WinThreeCards_slogan': 'One versus one, three cards to the result',
+      'BC_BullBull_slogan': 'The best game in history',
   
       //Cookie popup
       'Cookie_p1' : 'WE use cookies to ensure you get the best experience on our website. WE will assume you have agreed to our Privacy Policy by continuing to use our website henceforth.',
@@ -229,7 +229,7 @@ var arrLang = {
       'BC_MahjongLuckyWheel_slogan': '轉出嶄新驚喜。',
       'BC_SicBo_slogan': '一擲定輸贏。',
       'BC_Roulette_slogan': '極緻歐式玩樂體驗。',
-      'BC_WinThreeCards_slogan': '金龍銀鳳迸出非凡新意。',
+      'BC_WinThreeCards_slogan': '兩門對決，三張定勝負。',
       'BC_BullBull_slogan': '史上最牛掰的遊戲。',
   
       //Cookie popup
@@ -264,16 +264,16 @@ var arrLang = {
       'try_our_games': '免費試玩',
       //
       'LiveGames':'真人遊戲',
-      'gameDetail_p1':'区块链麻雀幸运轮融会中国元素，以中国国粹「麻雀」为主题，在共分为52格的幸运轮上，以「东」/「南」/「西」/「北」/「中」/「发」/「白」各牌将投注项目。玩家下注后，而幸运轮只要停在已下注选目，即可赢取高达45倍彩金，玩法简单更见无限惊喜！',
+      'gameDetail_p1':'區塊鏈麻雀幸運輪融會中國元素，以中國國粹「麻雀」為主題，在共分為52格的幸運輪上，以「東」/「南」/「西」/「北」/「中」/「發」/「白」各牌為投注項目。玩家下注後，而幸運輪只要停在已下注選目，即可贏取高達45倍彩金，玩法簡單更見無限驚喜！',
       'feature_1.1': '高端加密',
-      'feature_1.2': '双重验证',
-      'feature_1_p': '区块链麻雀幸运轮的游戏结果均使用SHA-256技术加密，而「验证加密文」则提前公布。开出结果后，玩家更可第三方独立平台生成加密文，「双重验证」可以确保游戏百份百公平、公正。',
-      'feature_2.1': '细腻设计转动细节',
-      'feature_2.2': '缔造真人视感觉',
-      'feature_2_p': '为了更贴近真人幸运轮的游戏体验，动画师混合先进的2D及3D技术，精心刻画幸运轮转动、减速、停留等每一个细节，逼真感十足。在游戏结果公布时，更取用「近景」模式，清晰地展示游戏结果。',
+      'feature_1.2': '雙重驗證',
+      'feature_1_p': '區塊鏈麻雀幸運輪的遊戲結果均使用SHA-256技術加密，而「驗證加密文」則提前公布。開出結果後，玩家更可第三方獨立平台生成加密文，「雙重驗證」可以確保遊戲百份百公平、公正。',
+      'feature_2.1': '細膩設計轉動細節',
+      'feature_2.2': '締造真人視感覺',
+      'feature_2_p': '為了更貼近真人幸運輪的遊戲體驗，動畫師混合先進的2D及3D技術，精心刻畫幸運輪轉動、減速、停留等每一個細節，逼真感十足。在遊戲結果公佈時，更取用「近景」模式，清晰地展示遊戲結果。',
       'feature_3.1': '一眼掌握彩池',
-      'feature_3.2': '及游戏记录',
-      'feature_3_p': '游戏介面详尽记录最近48局游戏结果，再加上「东」/「南」/「西」/「北」/「中」/「发」/「白」各门的即时彩池及本局总投注额，玩家自然可以一手掌握游戏热门趋势，即时制订投注策略，稳操胜券。',
+      'feature_3.2': '及遊戲記錄',
+      'feature_3_p': '遊戲介面詳盡記錄最近48局遊戲結果，再加上「東」/「南」/「西」/「北」/「中」/「發」/「白」各門的即時彩池及本局總投注額，玩家自然可以一手掌握遊戲熱門趨勢，即時制訂投注策略，穩操勝券。',
     },
 
 
@@ -369,7 +369,7 @@ var arrLang = {
       'BC_MahjongLuckyWheel_slogan': '转出黎明惊喜。',
       'BC_SicBo_slogan': '一掷定输赢。',
       'BC_Roulette_slogan': '极致欧式玩乐体验。',
-      'BC_WinThreeCards_slogan': '金龙银凤迸出非凡新意。',
+      'BC_WinThreeCards_slogan': '兩門對決，三張定勝負。',
       'BC_BullBull_slogan': '史上最牛掰的游戏。',
   
       //Cookie popup
@@ -429,6 +429,7 @@ var arrImg = {
       //UI
       'UI': 'images/game/game_BC_MahjongLuckyWheel/en/game_UI_BC_MahjongLuckyWheel_x1.png 500w,  images/game/game_BC_MahjongLuckyWheel/en/game_UI_BC_MahjongLuckyWheel_x2.png 1000w',
       //Feature
+      'feature1': 'images/game/game_BC_MahjongLuckyWheel/en/game_BC_MahjongLuckyWheel_feature1_1x.png 500w, images/game/game_BC_MahjongLuckyWheel/en/game_BC_MahjongLuckyWheel_feature1_2x.png 1000w',
       'feature3': 'images/game/game_BC_MahjongLuckyWheel/en/game_BC_MahjongLuckyWheel_feature3_1x.png 500w, images/game/game_BC_MahjongLuckyWheel/en/game_BC_MahjongLuckyWheel_feature3_2x.png 1000w',
     }],
   'TC': [{
@@ -441,6 +442,7 @@ var arrImg = {
       //UI
       'UI': ' images/game/game_BC_MahjongLuckyWheel/tc/game_UI_BC_MahjongLuckyWheel_x1.png 500w, images/game/game_BC_MahjongLuckyWheel/tc/game_UI_BC_MahjongLuckyWheel_x2.png 1000w',
       //Feature
+      'feature1': 'images/game/game_BC_MahjongLuckyWheel/tc/game_BC_MahjongLuckyWheel_feature1_1x.png 500w, images/game/game_BC_MahjongLuckyWheel/tc/game_BC_MahjongLuckyWheel_feature1_2x.png 1000w',
       'feature3': 'images/game/game_BC_MahjongLuckyWheel/tc/game_BC_MahjongLuckyWheel_feature3_1x.png 500w, images/game/game_BC_MahjongLuckyWheel/tc/game_BC_MahjongLuckyWheel_feature3_2x.png 1000w',
     }],
   'SC': [{
@@ -453,6 +455,7 @@ var arrImg = {
       //UI
       'UI': 'images/game/game_BC_MahjongLuckyWheel/sc/game_UI_BC_MahjongLuckyWheel_x1.png 500w, images/game/game_BC_MahjongLuckyWheel/sc/game_UI_BC_MahjongLuckyWheel_x2.png 1000w',
       //Feature
+      'feature1': 'images/game/game_BC_MahjongLuckyWheel/sc/game_BC_MahjongLuckyWheel_feature1_1x.png 500w, images/game/game_BC_MahjongLuckyWheel/sc/game_BC_MahjongLuckyWheel_feature1_2x.png 1000w',
       'feature3': 'images/game/game_BC_MahjongLuckyWheel/sc/game_BC_MahjongLuckyWheel_feature3_1x.png 500w, images/game/game_BC_MahjongLuckyWheel/sc/game_BC_MahjongLuckyWheel_feature3_2x.png 1000w',
     }]
 };
