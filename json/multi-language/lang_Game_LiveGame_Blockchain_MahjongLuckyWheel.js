@@ -74,7 +74,7 @@ var arrLang = {
       'BC_BullBull_2': 'BullBull',
 
       //Game Slogan
-      'BC_MahjongLuckyWheel_slogan': 'Brand new experience of lucky wheel',
+      'BC_MahjongLuckyWheel_slogan': 'Brand new game experience',
   
       //Cookie popup
       'Cookie_p1' : 'WE use cookies to ensure you get the best experience on our website. WE will assume you have agreed to our Privacy Policy by continuing to use our website henceforth.',

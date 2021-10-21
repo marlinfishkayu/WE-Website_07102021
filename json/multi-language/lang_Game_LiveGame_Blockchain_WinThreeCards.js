@@ -109,8 +109,8 @@ var arrLang = {
       //
       'LiveGames':'LIVE GAMES',
       'gameDetail_p1': 'During the game, both two sides will get three cards and the one with the largest card combination or points will win the game. WE especially named two main betting areas with "Gold" and "Silver". Together with other special betting types, namely "Pair 8 Plus", "Straight", "Flush", "Straight Flush" and "Three of a Kind", this game truly let the players to enjoy unlimited surprises with 120x rewards.',
-      'feature_1.1': 'Advanced Encryption Prohibiting',
-      'feature_1.2': 'Any Tampering',
+      'feature_1.1': 'Zero Chance For Tampering',
+      'feature_1.2': '',
       'feature_1_p': 'Every card of Win Three Cards is encrypted by SHA-256 algorithm. The high level of security can absolutely prohibit any kind of tampering in the game environment. Meanwhile, all the cards can be verified through the independent third party to ensure fairness and justice.',
       'feature_2.1': 'Gold & Silver Dragon Enlightenment',
       'feature_2.2': '',
