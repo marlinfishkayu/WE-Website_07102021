@@ -329,14 +329,14 @@ var arrLang = {
       'DragonTiger_slogan': '速战速决。',
       'MahjongLuckyWheel_slogan': '双重乐趣，三倍刺激！',
       'SqueezeBaccarat_slogan': '前所未有的刺激。',
-      'GodofFortuneSicBo_slogan': '意想不到的回報。',
+      'GodofFortuneSicBo_slogan': '意想不到的回报。',
       'GodofFortuneRoulette_slogan': '挑战经典的全新力作。',
       'WinThreeCards_slogan': '一个「炸」脑的游戏。',
       'SpeedBaccarat_slogan': '高速快感，让人心跳加速。',
-      'BC_MahjongLuckyWheel_slogan': '转出黎明惊喜。',
+      'BC_MahjongLuckyWheel_slogan': '转出崭新惊喜。',
       'BC_SicBo_slogan': '一掷定输赢。',
       'BC_Roulette_slogan': '极致欧式玩乐体验。',
-      'BC_WinThreeCards_slogan': '兩門對決，三張定勝負。',
+      'BC_WinThreeCards_slogan': '两门对决，三张定胜负。',
       'BC_BullBull_slogan': '狂牛对战，庄闲决雌雄。',
   
       //Cookie popup
