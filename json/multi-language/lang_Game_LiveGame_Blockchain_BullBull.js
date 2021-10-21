@@ -90,7 +90,7 @@ var arrLang = {
       'BC_SicBo_slogan': 'Roll the dice, win the prize',
       'BC_Roulette_slogan': 'Ultimate European-style play experience',
       'BC_WinThreeCards_slogan': 'One versus one, three cards to the result',
-      'BC_BullBull_slogan': 'The best game in history',
+      'BC_BullBull_slogan': 'Bullfight Between Banker & Players',
   
       //Cookie popup
       'Cookie_p1' : 'WE use cookies to ensure you get the best experience on our website. WE will assume you have agreed to our Privacy Policy by continuing to use our website henceforth.',
