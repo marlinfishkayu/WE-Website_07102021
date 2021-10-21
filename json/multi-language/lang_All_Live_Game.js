@@ -84,7 +84,7 @@ var arrLang = {
       'GodofFortuneRoulette_slogan': 'Spin beyond the classic.',
       'WinThreeCards_slogan': 'A game to challenge your intelligence.',
       'SpeedBaccarat_slogan': 'Speedy and mind-blowing.',
-      'BC_MahjongLuckyWheel_slogan': 'Brand New game experience.',
+      'BC_MahjongLuckyWheel_slogan': 'Brand new game experience.',
       'BC_SicBo_slogan': 'Rolling the dice to win the prize.',
       'BC_Roulette_slogan': 'Ultimate European-style game experience.',
       'BC_WinThreeCards_slogan': 'One-On-One exciting card games.',
