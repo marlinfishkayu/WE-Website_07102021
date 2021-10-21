@@ -109,8 +109,8 @@ var arrLang = {
       //
       'LiveGames':'LIVE GAMES',
       'gameDetail_p1': 'Our roulette sticks to European-style with single zero and numbers from 1 to 36 on the table. Diversified betting areas, which include "Big/Small", "Odd/Even", "Red/Black", "Direct", "ThreeNum" and "Column" etc. allow players to win up to 35x rewards and let them perfectly enjoy the Mediterranean-style gaming experience.',
-      'feature_1.1': 'High-end Encryption Prohibiting',
-      'feature_1.2': 'Any Kind of Tampering',
+      'feature_1.1': 'Advanced Tamper-proof Technology',
+      'feature_1.2': '',
       'feature_1_p': 'This game is encrypted by SHA-256 hashing algorithm which has been widely used in cryptocurrency. Each result is absolutely independent and secure, but also cannot be tampered in any circumstance. Meanwhile, all the results can be verified through the independent third party to ensure 100% fairness and justice.',
       'feature_2.1': 'Techno Gaming Enjoyment',
       'feature_2.2': '',
