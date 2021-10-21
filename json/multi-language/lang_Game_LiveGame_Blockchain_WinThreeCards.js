@@ -116,7 +116,7 @@ var arrLang = {
       'feature_2.2': '',
       'feature_2_p': 'Breaking through the tradition, WE especially names the two main betting areas of Win Three Cards with "Gold" and "Silver" with the theme of gold and silver dragons. The special effect of "Gold Dragon"/"Silver Dragon" will be shown when "Gold/Silver" wins the game. The dazzling animation truly enlightens this classic game with visual enjoyment.',
       'feature_3.1': 'Accurate Scoreboards &',
-      'feature_3.2': 'Detailed Game Records',
+      'feature_3.2': 'Game Records',
       'feature_3_p': 'This game is equipped with the full set of scoreboards with the win stats of two main betting areas and special card types. For the game records, it shows the card types and winning sides of "Gold" and "Silver" in the recent games. All these allow players to grasp the trend of game and carefully determine their own betting strategy.',
     },
   
