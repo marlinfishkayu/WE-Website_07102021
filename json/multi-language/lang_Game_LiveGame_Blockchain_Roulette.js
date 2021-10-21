@@ -114,7 +114,7 @@ var arrLang = {
       'feature_1_p': 'This game is encrypted by SHA-256 hashing algorithm which has been widely used in cryptocurrency. Each result is absolutely independent and secure, but also cannot be tampered in any circumstance. Meanwhile, all the results can be verified through the independent third party to ensure 100% fairness and justice.',
       'feature_2.1': 'Techno Gaming Enjoyment',
       'feature_2.2': '',
-      'feature_2_p': 'The elements of this game, whatever scene, lighting effect, and sound effect, are enlighted by techno style. Our designers further have combined 2D and 3D animations to depict every detail of rotating roulette. Meanwhile, this game allow players to set up their own betting combinations and place bets with one click. Just like playing in live casino, they can enjoy this exciting game by "throwing" chips on the table.',
+      'feature_2_p': 'The elements of this game, whatever scene, lighting effect, and sound effect, are enlighted by techno style. Our designers have further combined 2D and 3D animations to depict every detail of rotating roulette. Meanwhile, this game allows players to set up their own betting combinations and place bets with one click. Just like playing in live casino, they can enjoy this exciting game by "throwing" chips on the table. ',
       'feature_3.1': 'Full Set of Scoreboards',
       'feature_3.2': 'With Hot & Cold Numbers',
       'feature_3_p': 'Blockchain Roulette gathers every essential elements of live roulette and especially provides the full set of scoreboards and detailed game records for the players. In addition, the game also displays the Top 5 Hot & Cold number of the past 250 rounds which allows players to instantly overview the trend of game.',
