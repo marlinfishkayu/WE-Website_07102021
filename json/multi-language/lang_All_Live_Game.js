@@ -84,13 +84,11 @@ var arrLang = {
       'GodofFortuneRoulette_slogan': 'Spin beyond the classic.',
       'WinThreeCards_slogan': 'A game to challenge your intelligence.',
       'SpeedBaccarat_slogan': 'Speedy and mind-blowing.',
-      'Lotto5_slogan': 'Thrill ball game with attractive odds.',
-      'PK10_slogan': 'Let’s PK the racing',
-      'BC_MahjongLuckyWheel_slogan': 'Brand new experience of lucky wheel',
-      'BC_SicBo_slogan': 'Roll the dice, win the prize',
-      'BC_Roulette_slogan': 'Ultimate European-style play experience',
-      'BC_WinThreeCards_slogan': 'One versus one, three cards to the result',
-      'BC_BullBull_slogan': 'The best game in history',
+      'BC_MahjongLuckyWheel_slogan': 'Brand New game experience.',
+      'BC_SicBo_slogan': 'Rolling the dice to win the prize.',
+      'BC_Roulette_slogan': 'Ultimate European-style game experience.',
+      'BC_WinThreeCards_slogan': 'One-On-One exciting card games.',
+      'BC_BullBull_slogan': 'Bullfight between banker & players.',
 
       //Cookie popup
       'Cookie_p1' : 'WE use cookies to ensure you get the best experience on our website. WE will assume you have agreed to our Privacy Policy by continuing to use our website henceforth.',
@@ -211,13 +209,11 @@ var arrLang = {
       'GodofFortuneRoulette_slogan': '挑戰經典的全新力作。',
       'WinThreeCards_slogan': '一個「炸」腦的遊戲。',
       'SpeedBaccarat_slogan': '高速快感，讓人心跳加速。',
-      'Lotto5_slogan': '最高賠率彩球遊戲。',
-      'PK10_slogan':'競速賽車，等你來PK。',
       'BC_MahjongLuckyWheel_slogan': '轉出嶄新驚喜。',
       'BC_SicBo_slogan': '一擲定輸贏。',
       'BC_Roulette_slogan': '極緻歐式玩樂體驗。',
       'BC_WinThreeCards_slogan': '兩門對決，三張定勝負。',
-      'BC_BullBull_slogan': '史上最牛掰的遊戲。',
+      'BC_BullBull_slogan': '狂牛對戰，庄閒決雌雄。',
   
       //Cookie popup
       'Cookie_p1' : '本網站使用COOKIES以確保你在我們網站上獲得最佳使用體驗。如果你繼續使用本網站，這將被認為你已同意本網站隱私政策。',
@@ -337,13 +333,11 @@ var arrLang = {
       'GodofFortuneRoulette_slogan': '挑战经典的全新力作。',
       'WinThreeCards_slogan': '一个「炸」脑的游戏。',
       'SpeedBaccarat_slogan': '高速快感，让人心跳加速。',
-      'Lotto5_slogan': '最高赔率彩球游戏。',
-      'PK10_slogan':'竞速赛车，等你来PK。',
       'BC_MahjongLuckyWheel_slogan': '转出黎明惊喜。',
       'BC_SicBo_slogan': '一掷定输赢。',
       'BC_Roulette_slogan': '极致欧式玩乐体验。',
       'BC_WinThreeCards_slogan': '兩門對決，三張定勝負。',
-      'BC_BullBull_slogan': '史上最牛掰的游戏。',
+      'BC_BullBull_slogan': '狂牛对战，庄闲决雌雄。',
   
       //Cookie popup
       'Cookie_p1' : '本网站使用COOKIES以确保你在我们网站上获得最佳使用体验。如果你继续使用本网站，这将被认为你已同意本网站隐私政策。',
