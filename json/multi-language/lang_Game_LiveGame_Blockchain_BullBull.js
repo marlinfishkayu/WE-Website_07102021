@@ -112,12 +112,12 @@ var arrLang = {
       'feature_1.1': 'SHA-256 Technology Ensuring',
       'feature_1.2': 'Accuracy and Safety',
       'feature_1_p': 'Each card of Blockchain Bull Bull are encrypted by SHA-256 cryptography. The "Published Serial Number" will be shown before the release of game results which prohibit any chance of tampering. After game, player could verify related result on the third-party independent platform. Dual verification can surely guarantee the fairness and justice of the game.',
-      'feature_2.1': 'Great visual',
-      'feature_2.2': 'impact with contrast color',
-      'feature_2_p': 'The designer uses blue and red as the main colors of the game interface. The strong color matching and exciting sound effects will definitely give you a bright experience.',
-      'feature_3.1': 'Detailed game statistics',
-      'feature_3.2': '',
-      'feature_3_p': 'The game results clearly show the winning percentages and statistics of "Banker" and "Player" in the recent 20 rounds and 100 rounds. Players can refer to the records and easily deploy the next round.',
+      'feature_2.1': 'Panoramic Card Areas',
+      'feature_2.2': '',
+      'feature_2_p': 'In order to perform high standard of clarity and artistic expression, WE have specially designed a panoramic card areas for "Banker" and all "Players" in Blockchain Bull Bull, which surely let our players grasp the most updated game view at a glance instantly and enjoy more fun from it. ',
+      'feature_3.1': 'Detailed Game Records',
+      'feature_3.2': 'for All Sides',
+      'feature_3_p': "WE have especially designed game records for Blockchain Bull Bull which clearly shows the results and winning sides of Banker and Players. Meanwhile, we have well prepared 'Players' Stats' to demonstrate the number of wins among 'Player 1', 'Player 2' & 'Player 3'.",
     },
   
   
