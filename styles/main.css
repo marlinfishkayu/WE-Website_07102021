@@ -574,6 +574,9 @@ button:focus {
     width: 200px;
     font-size: 13px;
   }
+  .secondaryBtn#bcBtn {
+    width: 280px;
+  }
   .lg-break {
     display: none;
   }
@@ -855,7 +858,7 @@ button:focus {
   padding-bottom: 5px;
   pointer-events: none;
   margin: 0;
-  width: 120%;
+  width: 131%;
 }
 
 .nav-wrap li.dropdown .game-menu::after {
@@ -1593,7 +1596,7 @@ button:focus {
 }
 
 .sidebar .inner-container {
-  width: 500px;
+  width: 550px;
 }
 
 .sidebar .labels .tab-label {
@@ -1940,7 +1943,7 @@ ul.tab-content {
     width: 900px;
   }
   .subnav-arrow {
-    left: 232px;
+    left: 288px;
   }
   .game-icon-wrap {
     min-width: 260px;

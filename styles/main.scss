@@ -166,6 +166,7 @@ img{
 .secondaryBtn:hover::after{
   transform: scaleX(1);
 }
+
 .bottom-deco{
   font-family: $fontFuturaMedium;
 }
@@ -462,6 +463,9 @@ button:focus {
       width: 200px;
       font-size: 13px;
   }
+  .secondaryBtn#bcBtn {
+    width: 280px;
+  }
   .lg-break{
     display: none;
   }
@@ -513,3 +517,12 @@ button:focus {
 
 
 @import "./forIE";
+
+
+// #nav-area{
+//   height: 700px;
+// }
+
+// .nav-wrap li.dropdown .game-menu{
+//   opacity: 1;
+// }

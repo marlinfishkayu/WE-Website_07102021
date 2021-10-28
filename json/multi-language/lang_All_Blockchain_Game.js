@@ -74,7 +74,24 @@ var arrLang = {
     'BC_WinThreeCards_2': 'WinThreeCards',
     'BC_BullBull_1': 'Blockchain',
     'BC_BullBull_2': 'BullBull',
-    
+
+    //Game Slogan
+    'Baccarat_slogan': 'WE play beyond classic.',
+    'Roulette_slogan': 'Ultimate European classic.',
+    'SicBo_slogan': 'An unparalleled game of chance.',
+    'DragonTiger_slogan': 'The perfect game for quick players.',
+    'MahjongLuckyWheel_slogan': 'Double fun! Triple excitement! ',
+    'SqueezeBaccarat_slogan': 'Prolong the excitement and tension.',
+    'GodofFortuneSicBo_slogan': 'Prizing you unexceptionally.',
+    'GodofFortuneRoulette_slogan': 'Spin beyond the classic.',
+    'WinThreeCards_slogan': 'A game to challenge your intelligence.',
+    'SpeedBaccarat_slogan': 'Speedy and mind-blowing.',
+    'BC_MahjongLuckyWheel_slogan': 'Brand new game experience.',
+    'BC_SicBo_slogan': 'Rolling the dice to win the prize.',
+    'BC_Roulette_slogan': 'Ultimate European-style game experience.',
+    'BC_WinThreeCards_slogan': 'One-On-One exciting card games.',
+    'BC_BullBull_slogan': 'Bullfight between banker & players.',
+
     //Cookie popup
     'Cookie_p1' : 'WE use cookies to ensure you get the best experience on our website. WE will assume you have agreed to our Privacy Policy by continuing to use our website henceforth.',
     'Accept' : 'Accept',
@@ -97,20 +114,13 @@ var arrLang = {
     'age_over':'Yes, I am over 18',
     'age_under':'No, I am Under 18',
     'age_warning':'You are not allowed to enter this page.',
-
-
-    //Filter
-    'Filter_games' : 'Games',
-    'Filter_Events' : 'Events',
-    'Filter_Announcement' : 'Announcement',
-    'Filter_All' : 'All',
-    //What's New  detail
-    'detail_date' : '5 May 2021',
-    'detail_event_1' : 'SiGMA Virtual Roadshow',
-    'detail_p1' : 'Hello World! Get to know who WE are.',
-    'detail_p2' : 'Don’t miss out! Can’t wait to see you all at our virtual booth! ',
-    //button
-    'back' : 'back',
+    
+    //All Live Game
+    'All_Live_Game' : 'Blockchain Games', 
+    'All_Live_Game_p1' : 'Blockchain games prioritise gaming performance and security, as players take full control during the game, this is your best chance to fulfil your ambition!',
+    'All_Live_Game_p2' : 'Begin your BLOCKCHAIN GAME journey now!',  
+    //Detail
+    'detail' : 'detail',
   },
 
 
@@ -191,6 +201,23 @@ var arrLang = {
     'BC_BullBull_1': '區塊鏈牛牛',
     'BC_BullBull_2': '',
 
+    //Game Slogan
+    'Baccarat_slogan': '保留經典，再創高峰！',
+    'Roulette_slogan': '歐洲輪盤之巔。',
+    'SicBo_slogan': '一擲定輸贏。',
+    'DragonTiger_slogan': '速戰速決。',
+    'MahjongLuckyWheel_slogan': '雙重樂趣，三倍刺激！',
+    'SqueezeBaccarat_slogan': '前所未有的刺激。',
+    'GodofFortuneSicBo_slogan': '意想不到的回報。',
+    'GodofFortuneRoulette_slogan': '挑戰經典的全新力作。',
+    'WinThreeCards_slogan': '一個「炸」腦的遊戲。',
+    'SpeedBaccarat_slogan': '高速快感，讓人心跳加速。',
+    'BC_MahjongLuckyWheel_slogan': '轉出嶄新驚喜。',
+    'BC_SicBo_slogan': '一擲定輸贏。',
+    'BC_Roulette_slogan': '極緻歐式玩樂體驗。',
+    'BC_WinThreeCards_slogan': '兩門對決，三張定勝負。',
+    'BC_BullBull_slogan': '狂牛對戰，庄閒決雌雄。',
+
     //Cookie popup
     'Cookie_p1' : '本網站使用COOKIES以確保你在我們網站上獲得最佳使用體驗。如果你繼續使用本網站，這將被認為你已同意本網站隱私政策。',
     'Accept' : '同意',
@@ -213,21 +240,14 @@ var arrLang = {
     'age_over':'年滿１８歲',
     'age_under':'未滿１８歲',
     'age_warning':'請確認為18歲以上，才可進入此頁面。',
-
-    //Filter
-    'Filter_games' : '遊戲',
-    'Filter_Events' : '活動',
-    'Filter_Announcement' : '公告',
-    'Filter_All' : '全部',
-    //What's New  detail
-    'detail_date' : '2021年 5月5日',
-    'detail_event_1' : 'SIGMA虛擬巡演',
-    'detail_p1' : 'Hello World！ 認識 WE，發掘「世界娛樂」',
-    'detail_p2' : '切勿錯過！我們迫不及待與你碰面！',
-    //button
-    'back' : '返回',
+  
+    //All Live Game
+    'All_Live_Game' : '區塊鏈遊戲', 
+    'All_Live_Game_p1' : '區塊鏈遊戲採用嶄新科技，大大提升遊戲質量及安全性，由玩家全盤操控，實現夢想的機會終於來臨！',
+    'All_Live_Game_p2' : '立即開始你的區塊鏈遊戲之旅！', 
+    //Detail
+    'detail' : '詳情',
   },
-
 
   // 简体中文
   'SC': {
@@ -306,13 +326,30 @@ var arrLang = {
     'BC_BullBull_1': '区块链牛牛',
     'BC_BullBull_2': '',
 
+    //Game Slogan
+    'Baccarat_slogan': '保留经典，再创高峰！',
+    'Roulette_slogan': '欧洲轮盘之巅。',
+    'SicBo_slogan': '一掷定输赢。',
+    'DragonTiger_slogan': '速战速决。',
+    'MahjongLuckyWheel_slogan': '双重乐趣，三倍刺激！',
+    'SqueezeBaccarat_slogan': '前所未有的刺激。',
+    'GodofFortuneSicBo_slogan': '意想不到的回报。',
+    'GodofFortuneRoulette_slogan': '挑战经典的全新力作。',
+    'WinThreeCards_slogan': '一个「炸」脑的游戏。',
+    'SpeedBaccarat_slogan': '高速快感，让人心跳加速。',
+    'BC_MahjongLuckyWheel_slogan': '转出崭新惊喜。',
+    'BC_SicBo_slogan': '一掷定输赢。',
+    'BC_Roulette_slogan': '极致欧式玩乐体验。',
+    'BC_WinThreeCards_slogan': '两门对决，三张定胜负。',
+    'BC_BullBull_slogan': '狂牛对战，庄闲决雌雄。',
+
     //Cookie popup
     'Cookie_p1' : '本网站使用COOKIES以确保你在我们网站上获得最佳使用体验。如果你继续使用本网站，这将被认为你已同意本网站隐私政策。',
     'Accept' : '同意',
     //Footer
     'WorldEnt' : '世界娱乐',
     'Subscribe' : '订阅',
-    'Subscribe_btn' : '立即订阅',
+    'Subscribe_btn' : '立即訂閱',
     'Subscribe_p' : '抢先收到 WE 的最新消息及独家优惠。',
     'LicCert' : '营业执照及国际认证',
     'PrivacyPolicy' : '隐私政策',
@@ -328,23 +365,16 @@ var arrLang = {
     'age_over':'年满１８岁',
     'age_under':'未满１８岁',
     'age_warning':'请确认为18岁以上，才可进入此页面。',
-
-    //Filter
-    'Filter_games' : '游戏',
-    'Filter_Events' : '活动',
-    'Filter_Announcement' : '公告',
-    'Filter_All' : '全部',
-    //What's New  detail
-    'detail_date' : '2021年 5月5日',
-    'detail_event_1' : 'SiGMA虚拟巡演',
-    'detail_p1' : 'Hello World！ 认识 WE，發掘「世界娱乐」',
-    'detail_p2' : '切勿错过！我们迫不及待与你碰面！',
-    //button
-    'back' : '返回',
-    
-  }
-};
-
+  
+    //All Live Game
+    'All_Live_Game' : '区块链游戏', 
+    'All_Live_Game_p1' : '区块链游戏採用崭新科技，大大提升游戏质量及安全性，由玩家全盘操控，实现梦想的机会终于来临！',
+    'All_Live_Game_p2' : '立即开始你的区块链游戏之旅！', 
+    //Detail
+    'detail' : '详情',
+  
+    }
+  };
 
 //change image language
 var arrImg = {
@@ -355,6 +385,8 @@ var arrImg = {
       'AllLiveGameBtn':'./images/menu/allBtn/en/all_live_games_btn.svg',
       //all lotteries
       'AllLotteriesBtn':'./images/menu/allBtn/en/all_lotteries_btn.svg',
+      //UI
+      'live_game_logo': './images/all_live_game/en/live_game_logo_x1.png 500w,./images/all_live_game/en/live_game_logo_x2.png 1000w',
     }],
   'TC': [{
       //WE Logo
@@ -363,6 +395,8 @@ var arrImg = {
       'AllLiveGameBtn':'./images/menu/allBtn/tc/allgames.svg',
       //all lotteries
       'AllLotteriesBtn':'./images/menu/allBtn/tc/allgames.svg',
+      //UI
+      'live_game_logo': './images/all_live_game/tc/live_game_logo_x1.png 500w, ./images/all_live_game/tc/live_game_logo_x2.png 1000w',
     }],
   'SC': [{
       //WE Logo
@@ -371,5 +405,7 @@ var arrImg = {
       'AllLiveGameBtn':'./images/menu/allBtn/sc/allgames.svg',
       //all lotteries
       'AllLotteriesBtn':'./images/menu/allBtn/sc/allgames.svg',
+      //UI
+      'live_game_logo': './images/all_live_game/sc/live_game_logo_x1.png 500w, ./images/all_live_game/sc/live_game_logo_x2.png 1000w',
     }]
 };

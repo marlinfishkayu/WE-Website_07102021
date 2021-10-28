@@ -57,7 +57,7 @@
 	padding-bottom: 5px;
 	pointer-events: none;
 	margin: 0;
-	width: 120%;
+	width: 131%;
 }
 .nav-wrap li.dropdown .game-menu::after{
 	content: '';
@@ -353,6 +353,7 @@
     -webkit-appearance: none;
 	-moz-appearance: none;
 }
+
 .lang-dropdown.show{
 	opacity: 1;
 	pointer-events: all;
@@ -651,7 +652,7 @@
 		overflow-y: hidden;
 	}
 	.inner-container {
-		width: 500px;
+		width: 550px;
 	}
 	.labels .tab-label {
 		cursor: pointer;
@@ -979,7 +980,7 @@ ul.tab-content {
 		width: 900px;
 	}
 	.subnav-arrow {
-		left: 232px;
+		left: 288px;
 	}
 	.game-icon-wrap{
 		min-width: 260px;
