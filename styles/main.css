@@ -7706,6 +7706,20 @@ select.form-control::-ms-expand {
   margin-bottom: 5px;
 }
 
+#allLiveGame.AllBCgames .bottom-deco {
+  margin-top: 5rem;
+  line-height: 30px;
+  width: 350px;
+}
+
+#liveGame.BCgames .header-deco:after {
+  right: -32%;
+}
+
+#liveGame.BCgames .header-deco:before {
+  left: -32%;
+}
+
 @media (min-width: 576px) {
   #allLiveGame .bottom-deco {
     margin-top: 5rem;
@@ -7750,6 +7764,10 @@ select.form-control::-ms-expand {
 @media (min-width: 992px) {
   #allLiveGame .bottom-deco {
     width: 340px;
+  }
+  #allLiveGame.AllBCgames .bottom-deco {
+    margin-top: 0rem;
+    line-height: 40px;
   }
 }
 

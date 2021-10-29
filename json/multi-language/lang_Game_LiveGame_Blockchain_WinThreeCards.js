@@ -76,7 +76,7 @@ var arrLang = {
       'BC_BullBull_2': 'BullBull',
 
       //Game Slogan
-      'BC_WinThreeCards_slogan': 'One-on-one exciting card games',
+      'BC_WinThreeCards_slogan': 'One-on-one exciting card games.',
   
       //Cookie popup
       'Cookie_p1' : 'WE use cookies to ensure you get the best experience on our website. WE will assume you have agreed to our Privacy Policy by continuing to use our website henceforth.',
@@ -102,6 +102,7 @@ var arrLang = {
       'age_warning':'You are not allowed to enter this page.',
       
       //Game Content
+      'BlockchainGames':'BLOCKCHAIN GAMES',
       'try_now': 'try now',
       'AllLiveGame': 'All Live Games',
       'feature': 'FEATURE HIGHLIGHTS',
@@ -228,7 +229,7 @@ var arrLang = {
     
       //Game Content
       'try_now': '立即試玩',
-      'AllLiveGame': '真人遊戲',
+      'BlockchainGames': '區塊鏈遊戲',
       'feature': '功能亮點',
       'compatible': '支持平台',
       'leading': '一路領先，搶鮮玩！',
@@ -353,7 +354,7 @@ var arrLang = {
     
       //Game Content
       'try_now': '立即试玩',
-      'AllLiveGame': '真人游戏',
+      'BlockchainGames': '区块链游戏',
       'feature': '功能亮点',
       'compatible': '支持平台',
       'leading': '一路领先，抢鲜玩！',

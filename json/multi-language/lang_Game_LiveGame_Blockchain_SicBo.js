@@ -76,7 +76,7 @@ var arrLang = {
       'BC_BullBull_2': 'BullBull',
 
       //Game Slogan
-      'BC_SicBo_slogan': 'Rolling the dice to win the prize',
+      'BC_SicBo_slogan': 'Rolling the dice to win the prize.',
   
       //Cookie popup
       'Cookie_p1' : 'WE use cookies to ensure you get the best experience on our website. WE will assume you have agreed to our Privacy Policy by continuing to use our website henceforth.',
@@ -103,7 +103,7 @@ var arrLang = {
       
       //Game Content
       'try_now': 'try now',
-      'AllLiveGame': 'All Live Games',
+      'BlockchainGames':'BLOCKCHAIN GAMES',
       'feature': 'FEATURE HIGHLIGHTS',
       'compatible': 'compatible with',
       'leading': 'Leading the way, play new.',
@@ -111,14 +111,14 @@ var arrLang = {
       //
       'LiveGames':'LIVE GAMES',
       'gameDetail_p1': 'Blockchain Sic Bo follows the traditional simple rules of live Sic Bo and uses the total points as well as combinations of 3 dice to determine the result. Meanwhile, a number of betting areas, like "Big/Small", "Odd/Double", "Specific Triple", "Any Triple", "Total Points" have been well prepared for the players to win up to 180x rewards.',
-      'feature_1.1': 'SHA-256 Technology Ensuring',
+      'feature_1.1': 'SHA-256 Ensuring',
       'feature_1.2': 'Fairness And Independence',
       'feature_1_p': 'Each game results of Blockchain Sic Bo are independently generated and the related serial number are encrypted by the SHA-256 algorithm to ensure the games are performed in the fairest environment. After the release of game results, players can verifiy them on the third-party independent platform.',
       'feature_2.1': 'Cosmos Theme Truly Creating',
       'feature_2.2': 'Refreshing Experience',
       'feature_2_p': 'Decorating with spaceship background, every game detail of Blockchain Sic Bo, like turning around, uncovering and shaking of metal dice cup has been detailedly crafted with high-end 3D technology with sci fi sound effects. It allows our players to enjoy fresh and exciting experience from this traditional game.',
-      'feature_3.1': 'Completely Showing',
-      'feature_3.2': 'Game Data & Trends',
+      'feature_3.1': 'Completely Showing Game Data & Trends',
+      'feature_3.2': '',
       'feature_3_p': 'Blockchain Sic Bo has well prepared the roadmaps and game records of "Odd/Double", "Big/Small", "Sum Value" associated with the visualised statistics of “Big/Small/Triples" for the players. All these useful data let the players easily grasp the trend of the game.',
     },
   
@@ -229,7 +229,7 @@ var arrLang = {
     
       //Game Content
       'try_now': '立即試玩',
-      'AllLiveGame': '真人遊戲',
+      'BlockchainGames': '區塊鏈遊戲',
       'feature': '功能亮點',
       'compatible': '支持平台',
       'leading': '一路領先，搶鮮玩！',
@@ -354,7 +354,7 @@ var arrLang = {
     
       //Game Content
       'try_now': '立即试玩',
-      'AllLiveGame': '真人游戏',
+      'BlockchainGames': '区块链游戏',
       'feature': '功能亮点',
       'compatible': '支持平台',
       'leading': '一路领先，抢鲜玩！',

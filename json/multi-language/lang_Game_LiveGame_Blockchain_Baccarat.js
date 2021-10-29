@@ -103,7 +103,7 @@ var arrLang = {
       'age_warning':'You are not allowed to enter this page.',
       
       //Game Content
-      'LiveGames':'LIVE GAMES',
+      'BlockchainGames':'BLOCKCHAIN GAMES',
       'try_now': 'try now',
       'AllLiveGame': 'All Live Games',
       'feature': 'FEATURE HIGHLIGHTS',
@@ -228,7 +228,7 @@ var arrLang = {
     
       //Game Content
       'try_now': '立即試玩',
-      'AllLiveGame': '真人遊戲',
+      'BlockchainGames': '區塊鏈遊戲',
       'feature': '功能亮點',
       'compatible': '支持平台',
       'leading': '一路領先，搶鮮玩！',
@@ -351,16 +351,15 @@ var arrLang = {
       'age_warning':'请确认为18岁以上，才可进入此页面。',
     
       //Game Content
-      
       'try_now': '立即试玩',
-      'AllLiveGame': '真人游戏',
+      'BlockchainGames': '区块链游戏',
       'feature': '功能亮点',
       'compatible': '支持平台',
       'leading': '一路领先，抢鲜玩！',
       'try_our_games': '免费试玩',
       //
       'LiveGames':'真人游戏',
-      'gameDetail_p1': '區塊鏈百家樂是一種公平公正卡牌遊戲，玩法簡單。除了传统百家乐外，我们更提供多款百家乐游戏类型，以迎合每个百家乐爱好者。',
+      'gameDetail_p1': '区块链百家乐是一种公平公正卡牌游戏，玩法简单。除了传统百家乐外，我们更提供多款百家乐游戏类型，以迎合每个百家乐爱好者。',
       'feature_1.1': '完整路單',
       'feature_1.2': '一目了然',
       'feature_1_p': '我们齐备5款百家乐路單，包括「珠盘路」、「大路」、「大眼路」、「小路」及「小強路」，以及「下三路」的「庄」、「闲」问路功能，轻松预测每局趋势。',

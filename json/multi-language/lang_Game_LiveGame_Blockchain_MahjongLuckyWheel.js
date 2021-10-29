@@ -76,7 +76,7 @@ var arrLang = {
       'BC_BullBull_2': 'BullBull',
 
       //Game Slogan
-      'BC_MahjongLuckyWheel_slogan': 'Brand new game experience',
+      'BC_MahjongLuckyWheel_slogan': 'Brand new game experience.',
   
       //Cookie popup
       'Cookie_p1' : 'WE use cookies to ensure you get the best experience on our website. WE will assume you have agreed to our Privacy Policy by continuing to use our website henceforth.',
@@ -103,7 +103,7 @@ var arrLang = {
       
       //Game Content
       'try_now': 'try now',
-      'AllLiveGame': 'All Live Games',
+      'BlockchainGames':'BLOCKCHAIN GAMES',
       'feature': 'FEATURE HIGHLIGHTS',
       'compatible': 'compatible with',
       'leading': 'Leading the way, play new.',
@@ -117,8 +117,8 @@ var arrLang = {
       'feature_2.1': 'Detailed Design',
       'feature_2.2': 'Dedicating Live Game Feeling',
       'feature_2_p': 'Our experienced animators used a squence of 2D and 3D technologies to meticulously depict every single detail of game, including rotating, slowing down, and stopping of the wheel in order to contribute live game experience to the players.  Moreover, the game result will be clearly shown by "close-up" shot during the release of result.',
-      'feature_3.1': 'Grasping All Pools &',
-      'feature_3.2': 'Game History At One Glance',
+      'feature_3.1': 'Grasping All Pools & Game History At One Glance',
+      'feature_3.2': '',
       'feature_3_p': 'Our game platform detailedly shows the results of last 48 games with the live pools as well as overall bet amounts of different betting areas, including "East Wind", "South Wind", "West Wind", "North Wind", "Red Dragon",  "Green Dragon" and "White Dragon". Players can easily grasp the trend of game and formulate their own betting strategies in this way.',
     },
   
@@ -228,7 +228,7 @@ var arrLang = {
     
       //Game Content
       'try_now': '立即試玩',
-      'AllLiveGame': '真人遊戲',
+      'BlockchainGames': '區塊鏈遊戲',
       'feature': '功能亮點',
       'compatible': '支持平台',
       'leading': '一路領先，搶鮮玩！',
@@ -353,7 +353,7 @@ var arrLang = {
       
       //Game Content
       'try_now': '立即试玩',
-      'AllLiveGame': '真人游戏',
+      'BlockchainGames': '区块链游戏',
       'feature': '功能亮点',
       'compatible': '支持平台',
       'leading': '一路领先，抢鲜玩！',

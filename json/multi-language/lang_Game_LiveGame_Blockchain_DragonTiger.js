@@ -103,7 +103,7 @@ var arrLang = {
       
       //Game Content
       'try_now': 'try now',
-      'AllLiveGame': 'All Live Games',
+      'BlockchainGames':'BLOCKCHAIN GAMES',
       'feature': 'FEATURE HIGHLIGHTS',
       'compatible': 'compatible with',
       'leading': 'Leading the way, play new.',
@@ -228,7 +228,7 @@ var arrLang = {
     
       //Game Content
       'try_now': '立即試玩',
-      'AllLiveGame': '真人遊戲',
+      'BlockchainGames': '區塊鏈遊戲',
       'feature': '功能亮點',
       'compatible': '支持平台',
       'leading': '一路領先，搶鮮玩！',
@@ -353,7 +353,7 @@ var arrLang = {
     
       //Game Content
       'try_now': '立即试玩',
-      'AllLiveGame': '真人游戏',
+      'BlockchainGames': '区块链游戏',
       'feature': '功能亮点',
       'compatible': '支持平台',
       'leading': '一路领先，抢鲜玩！',

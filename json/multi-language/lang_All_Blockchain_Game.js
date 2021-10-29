@@ -116,7 +116,7 @@ var arrLang = {
     'age_warning':'You are not allowed to enter this page.',
     
     //All Live Game
-    'All_Live_Game' : 'Blockchain Games', 
+    'All_Live_Game' : 'All Blockchain Games', 
     'All_Live_Game_p1' : 'Blockchain games prioritise gaming performance and security, as players take full control during the game, this is your best chance to fulfil your ambition!',
     'All_Live_Game_p2' : 'Begin your BLOCKCHAIN GAME journey now!',  
     //Detail
@@ -386,7 +386,7 @@ var arrImg = {
       //all lotteries
       'AllLotteriesBtn':'./images/menu/allBtn/en/all_lotteries_btn.svg',
       //UI
-      'live_game_logo': './images/all_live_game/en/live_game_logo_x1.png 500w,./images/all_live_game/en/live_game_logo_x2.png 1000w',
+      'live_game_logo': './images/all_BC_game/en/BC_game_logo_x1.png 500w,./images/all_BC_game/en/BC_game_logo_x2.png 1000w',
     }],
   'TC': [{
       //WE Logo
@@ -396,7 +396,7 @@ var arrImg = {
       //all lotteries
       'AllLotteriesBtn':'./images/menu/allBtn/tc/allgames.svg',
       //UI
-      'live_game_logo': './images/all_live_game/tc/live_game_logo_x1.png 500w, ./images/all_live_game/tc/live_game_logo_x2.png 1000w',
+      'live_game_logo': './images/all_BC_game/tc/BC_game_logo_x1.png 500w, ./images/all_BC_game/tc/BC_game_logo_x2.png 1000w',
     }],
   'SC': [{
       //WE Logo
@@ -406,6 +406,6 @@ var arrImg = {
       //all lotteries
       'AllLotteriesBtn':'./images/menu/allBtn/sc/allgames.svg',
       //UI
-      'live_game_logo': './images/all_live_game/sc/live_game_logo_x1.png 500w, ./images/all_live_game/sc/live_game_logo_x2.png 1000w',
+      'live_game_logo': './images/all_BC_game/sc/BC_game_logo_x1.png 500w, ./images/all_BC_game/sc/BC_game_logo_x2.png 1000w',
     }]
 };
