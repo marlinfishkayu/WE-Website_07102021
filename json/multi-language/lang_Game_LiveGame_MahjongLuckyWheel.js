@@ -288,13 +288,13 @@ var arrLang = {
       'Roulette': '轮盘',
       'SicBo': '骰宝',
       'DragonTiger': '龙虎',
-      'MahjongLuckyWheel': '麻将幸运轮',
+      'MahjongLuckyWheel': '麻雀幸运轮',
       'SqueezeBaccarat': '咪牌百家乐',
       'SpeedBaccarat': '极速百家乐',
       'GodofFortuneSicBo': '财神骰宝',
       'GodofFortuneRoulette': '财神轮盘',
       'WinThreeCards': '炸金花',
-      'Mahjong': '麻将',
+      'Mahjong': '麻雀',
       'LuckyWheel': '幸运轮',
       'GodofFortune': '财神',
       'Lotto5': '时时彩',
@@ -304,7 +304,7 @@ var arrLang = {
       'GodofFortuneSicBo_2':'',
       'GodofFortuneRoulette_1':'财神轮盘',
       'GodofFortuneRoulette_2':'',
-      'MahjongLuckyWheel_1': '麻将幸运轮',
+      'MahjongLuckyWheel_1': '麻雀幸运轮',
       'MahjongLuckyWheel_2': '',
       'BlockchainBaccarat_1': '区块链百家乐',
       'BlockchainBaccarat_2': '',
@@ -360,13 +360,13 @@ var arrLang = {
       'try_our_games': '免费试玩',
       //
       'LiveGames':'真人游戏',
-      'gameDetail_p1': '麻将幸运轮是我们全新研發真人游戏。 有别于市面上幸运轮，我们特别加入中国传统游戏元素 -「麻将」，培添趣味。通过简单规则和赔率比例，增加游戏过程刺激感。相信玩家将会在麻将幸运轮中得到全新视觉体验。',
+      'gameDetail_p1': '麻雀幸运轮是我们全新研發真人游戏。 有别于市面上幸运轮，我们特别加入中国传统游戏元素 -「麻雀」，培添趣味。通过简单规则和赔率比例，增加游戏过程刺激感。相信玩家将会在麻雀幸运轮中得到全新视觉体验。',
       'feature_1.1': '崭新面貌',
       'feature_1.2': '高额奖赏',
-      'feature_1_p': '突破幸运轮传统设计，当中加入了中国麻将元素，巧妙地將传统神韵和现代风格相结合，缔造独特设计，赢取丰富奖赏。',
+      'feature_1_p': '突破幸运轮传统设计，当中加入了中国麻雀元素，巧妙地將传统神韵和现代风格相结合，缔造独特设计，赢取丰富奖赏。',
       'feature_2.1': '即时揭晓结果',
       'feature_2.2': '精彩刺激',
-      'feature_2_p': '麻将幸运轮玩法既简单，又极具临场感，主持人更会现场操作幸运轮，即时揭晓游戏结果，紧张刺激！',
+      'feature_2_p': '麻雀幸运轮玩法既简单，又极具临场感，主持人更会现场操作幸运轮，即时揭晓游戏结果，紧张刺激！',
       'feature_3.1': '实时「即时彩池」',
       'feature_3.2': '清晰展示',
       'feature_3_p': '除了详尽游戏记录外，我们更提供「即时彩池」数据，清晰展示各个投注选项的实时下注量，让玩家第一时间掌握最新形势，开展下一局！',
@@ -380,6 +380,8 @@ var arrImg = {
       'WE_logo': 'images/icon/en/logo.svg',
       //all live game
       'AllLiveGameBtn':'./images/menu/allBtn/en/all_live_games_btn.svg',
+      //all blockchain game
+      'AllBlockchainGameBtn':'./images/menu/allBtn/en/all_BC_games.svg',
       //all lotteries
       'AllLotteriesBtn':'./images/menu/allBtn/en/all_lotteries_btn.svg',
       //UI
@@ -392,6 +394,8 @@ var arrImg = {
       'WE_logo': 'images/icon/tc/logo.svg',
       //all live game
       'AllLiveGameBtn':'./images/menu/allBtn/tc/allgames.svg',
+      //all blockchain game
+      'AllBlockchainGameBtn':'./images/menu/allBtn/tc/allgames.svg',
       //all lotteries
       'AllLotteriesBtn':'./images/menu/allBtn/tc/allgames.svg',
       //UI
@@ -404,6 +408,8 @@ var arrImg = {
       'WE_logo': 'images/icon/sc/logo.svg',
       //all live game
       'AllLiveGameBtn':'./images/menu/allBtn/sc/allgames.svg',
+      //all blockchain game
+      'AllBlockchainGameBtn':'./images/menu/allBtn/sc/allgames.svg',
       //all lotteries
       'AllLotteriesBtn':'./images/menu/allBtn/sc/allgames.svg',
       //UI

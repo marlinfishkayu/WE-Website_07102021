@@ -109,6 +109,8 @@ var arrLang = {
       'leading': 'Leading the way, play new.',
       'try_our_games': 'Try Our Games',
       //
+      'Squeeze': 'Squeeze',
+      'Baccarat_1': 'Baccarat',
       'LiveGames':'LIVE GAMES',
       'gameDetail_p1': 'Our state-of-the-art technology allows players to squeeze cards "on-site". They can squeeze cards in their preference. WE will surely bring more fun to games which excite our players like being on spot.',
       'feature_1.1': 'Immersive 3D',
@@ -232,6 +234,8 @@ var arrLang = {
       'leading': '一路領先，搶鮮玩！',
       'try_our_games': '免費試玩',
       //
+      'Squeeze': '咪牌百家樂',
+      'Baccarat_1': '',
       'LiveGames':'真人遊戲',
       'gameDetail_p1': '通過高端科技，玩家猶如置身現場，可以多角度同步咪牌；在公平公正的環境下，即時查看牌面點數。刺激互動效果，讓玩家仿佛置身於現場中，為遊戲增添更多樂趣。',
       'feature_1.1': '3D 揭牌展示',
@@ -284,13 +288,13 @@ var arrLang = {
       'Roulette': '轮盘',
       'SicBo': '骰宝',
       'DragonTiger': '龙虎',
-      'MahjongLuckyWheel': '麻将幸运轮',
+      'MahjongLuckyWheel': '麻雀幸运轮',
       'SqueezeBaccarat': '咪牌百家乐',
       'SpeedBaccarat': '极速百家乐',
       'GodofFortuneSicBo': '财神骰宝',
       'GodofFortuneRoulette': '财神轮盘',
       'WinThreeCards': '炸金花',
-      'Mahjong': '麻将',
+      'Mahjong': '麻雀',
       'LuckyWheel': '幸运轮',
       'GodofFortune': '财神',
       'Lotto5': '时时彩',
@@ -300,7 +304,7 @@ var arrLang = {
       'GodofFortuneSicBo_2':'',
       'GodofFortuneRoulette_1':'财神轮盘',
       'GodofFortuneRoulette_2':'',
-      'MahjongLuckyWheel_1': '麻将幸运轮',
+      'MahjongLuckyWheel_1': '麻雀幸运轮',
       'MahjongLuckyWheel_2': '',
       'BlockchainBaccarat_1': '区块链百家乐',
       'BlockchainBaccarat_2': '',
@@ -355,6 +359,8 @@ var arrLang = {
       'leading': '一路领先，抢鲜玩！',
       'try_our_games': '免费试玩',
       //
+      'Squeeze': '咪牌百家乐',
+      'Baccarat_1': '',
       'LiveGames':'真人游戏',
       'gameDetail_p1': '通过高端科技，玩家犹如置身现场，可以多角度同步咪牌；在公平公正的环境下，即时查看牌面点数。刺激互动效果，让玩家仿佛置身于现场中，为游戏增添更多乐趣。',
       'feature_1.1': '3D 揭牌展示',
@@ -374,6 +380,8 @@ var arrImg = {
       'WE_logo': 'images/icon/en/logo.svg',
       //all live game
       'AllLiveGameBtn':'./images/menu/allBtn/en/all_live_games_btn.svg',
+      //all blockchain game
+      'AllBlockchainGameBtn':'./images/menu/allBtn/en/all_BC_games.svg',
       //all lotteries
       'AllLotteriesBtn':'./images/menu/allBtn/en/all_lotteries_btn.svg',
       //UI
@@ -387,6 +395,8 @@ var arrImg = {
       'WE_logo': 'images/icon/tc/logo.svg',
       //all live game
       'AllLiveGameBtn':'./images/menu/allBtn/tc/allgames.svg',
+      //all blockchain game
+      'AllBlockchainGameBtn':'./images/menu/allBtn/tc/allgames.svg',
       //all lotteries
       'AllLotteriesBtn':'./images/menu/allBtn/tc/allgames.svg',
       //UI
@@ -400,6 +410,8 @@ var arrImg = {
       'WE_logo': 'images/icon/sc/logo.svg',
       //all live game
       'AllLiveGameBtn':'./images/menu/allBtn/sc/allgames.svg',
+      //all blockchain game
+      'AllBlockchainGameBtn':'./images/menu/allBtn/sc/allgames.svg',
       //all lotteries
       'AllLotteriesBtn':'./images/menu/allBtn/sc/allgames.svg',
       //UI

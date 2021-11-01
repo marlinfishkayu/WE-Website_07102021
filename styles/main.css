@@ -4189,11 +4189,6 @@ footer {
   letter-spacing: 1px;
 }
 
-#liveGame #GodofFortuneSicBo .hero-icon,
-#liveGame #GodofFortuneRoulette .hero-icon {
-  padding-top: 18rem;
-}
-
 #GodofFortuneSicBo .hero-header, #GodofFortuneRoulette .live-game-main {
   padding-bottom: 0;
 }
@@ -7709,7 +7704,7 @@ select.form-control::-ms-expand {
 #allLiveGame.AllBCgames .bottom-deco {
   margin-top: 5rem;
   line-height: 30px;
-  width: 350px;
+  width: 250px;
 }
 
 #liveGame.BCgames .header-deco:after {
@@ -7768,6 +7763,7 @@ select.form-control::-ms-expand {
   #allLiveGame.AllBCgames .bottom-deco {
     margin-top: 0rem;
     line-height: 40px;
+    width: 350px;
   }
 }
 
