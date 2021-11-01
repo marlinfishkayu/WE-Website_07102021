@@ -1145,6 +1145,9 @@
             }
         }
     }
+    #newsFeed .timeline-wrap .timeline ul li:nth-child(odd) .text-gold-btn:after {
+        margin-right: -47px;
+    }
 }
 // Extra large devices (large desktops, 1200px and up)
 @media (min-width: 1200px) {

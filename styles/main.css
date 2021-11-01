@@ -6303,6 +6303,9 @@ select.form-control::-ms-expand {
   #News_Games .right-frame .text-gold-btn:hover::after {
     right: -33%;
   }
+  #newsFeed .timeline-wrap .timeline ul li:nth-child(odd) .text-gold-btn:after {
+    margin-right: -47px;
+  }
 }
 
 @media (min-width: 1200px) {
