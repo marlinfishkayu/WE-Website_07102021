@@ -1,6 +1,10 @@
 body:lang(TC),
 body:lang(SC)
 {
+    #liveGame.BCgames .header-deco:after,
+    #liveGame.BCgames .header-deco:before{
+        width: 105px;
+    }
     @media (min-width: 992px){
         #allLiveGame .bottom-deco {
             width: 278px;

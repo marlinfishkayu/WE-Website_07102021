@@ -4293,6 +4293,10 @@ footer {
     margin: 0 auto;
     line-height: 35px;
   }
+  #liveGame.BCgames .header-deco:after,
+  #liveGame.BCgames .header-deco:before {
+    width: 65px;
+  }
 }
 
 @media (min-width: 576px) {
@@ -5940,8 +5944,11 @@ select.form-control::-ms-expand {
   #news-carousel .update-content .update-event,
   #news-carousel .update-content .update-detail {
     width: 318px;
-    max-height: 172px;
+    max-height: 174px;
     overflow: hidden;
+  }
+  #news-carousel .update-content .update-detail {
+    max-height: 84px;
   }
   #news-carousel .update-content .update-detail-btn {
     padding-top: 1rem;
@@ -6107,10 +6114,10 @@ select.form-control::-ms-expand {
   }
   #newsFeed .timeline-wrap .timeline ul li:nth-child(even):after {
     left: -100px;
-    bottom: 152px;
+    bottom: 123px;
   }
   #newsFeed .timeline-wrap .timeline ul li:nth-child(even):before {
-    bottom: 162px;
+    bottom: 133px;
     width: 180px;
   }
   #newsFeed .timeline-wrap .timeline ul li:nth-child(even) .timeline-detail {
@@ -6284,7 +6291,7 @@ select.form-control::-ms-expand {
     padding-top: 10rem;
   }
   #News_Games .text-gold-btn:after {
-    right: -40%;
+    right: 20%;
     display: block;
   }
   #News_Games .text-gold-btn:hover::after {
@@ -7707,14 +7714,6 @@ select.form-control::-ms-expand {
   width: 250px;
 }
 
-#liveGame.BCgames .header-deco:after {
-  right: -32%;
-}
-
-#liveGame.BCgames .header-deco:before {
-  left: -32%;
-}
-
 @media (min-width: 576px) {
   #allLiveGame .bottom-deco {
     margin-top: 5rem;
@@ -7858,6 +7857,9 @@ select.form-control::-ms-expand {
   }
   #allLiveGame .allLiveGame-main .game-item-wrap .inner-stroke {
     outline: 1px solid #7d6443;
+  }
+  #allLiveGame .allLiveGame-main .game-item-wrap #lotto5Icon {
+    margin-top: 1.3rem;
   }
 }
 
@@ -10332,6 +10334,13 @@ body:lang(SC) #AboutWE .hero-header .hero-intro1 {
   body:lang(SC) #AboutWE .service-item {
     padding: 5px 5rem;
   }
+}
+
+body:lang(TC) #liveGame.BCgames .header-deco:after,
+body:lang(TC) #liveGame.BCgames .header-deco:before,
+body:lang(SC) #liveGame.BCgames .header-deco:after,
+body:lang(SC) #liveGame.BCgames .header-deco:before {
+  width: 105px;
 }
 
 @media (min-width: 992px) {

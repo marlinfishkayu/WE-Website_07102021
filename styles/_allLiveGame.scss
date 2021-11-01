@@ -333,12 +333,8 @@
     line-height: 30px;
     width: 250px;
 }
-#liveGame.BCgames .header-deco:after{
-    right: -32%;
-}
-#liveGame.BCgames .header-deco:before{
-    left: -32%;
-}
+
+
 // Small devices (landscape phones, 576px and up)
 @media (min-width: 576px) {
     #allLiveGame  .bottom-deco{
@@ -393,6 +389,7 @@
         line-height: 40px;
         width: 350px;
     }
+    
 }
 
 // Small devices (landscape phones, 576px and up)
@@ -486,6 +483,9 @@
     }
     #allLiveGame .allLiveGame-main .game-item-wrap .inner-stroke {
         outline: 1px solid #7d6443;
+    }
+    #allLiveGame .allLiveGame-main .game-item-wrap #lotto5Icon{
+        margin-top: 1.3rem;
     }
 }
 

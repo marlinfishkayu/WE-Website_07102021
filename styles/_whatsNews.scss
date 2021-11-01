@@ -767,8 +767,11 @@
     #news-carousel .update-content .update-event,
     #news-carousel .update-content .update-detail {
         width: 318px;
-        max-height: 172px;
+        max-height: 174px;
         overflow: hidden;
+    }
+    #news-carousel .update-content .update-detail {
+        max-height: 84px;
     }
     #news-carousel .update-content .update-detail-btn{
         padding-top: 1rem;
@@ -939,10 +942,10 @@
                 ul li:nth-child(even) {
                     &:after {
                         left: -100px;
-                        bottom: 152px;
+                        bottom: 123px;
                     }
                     &:before {
-                        bottom: 162px;
+                        bottom: 133px;
                         width: 180px;
                     }
                     .timeline-detail {
@@ -1125,7 +1128,7 @@
     }
     #News_Games {
         .text-gold-btn:after {
-            right: -40%;
+            right: 20%;
             display: block;
         }
         .text-gold-btn:hover::after {

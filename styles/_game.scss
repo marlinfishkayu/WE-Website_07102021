@@ -435,6 +435,8 @@
     height: 60px;
     padding-bottom: 37px;
 }
+
+
 // Small devices (landscape phones, 576px and up)
 @media (max-width: 576px) { 
     #GodofFortuneSicBo .hero-header , 
@@ -459,6 +461,10 @@
         max-width: 400px;
         margin: 0 auto;
         line-height: 35px;
+    }
+    #liveGame.BCgames .header-deco:after,
+    #liveGame.BCgames .header-deco:before{
+        width: 65px;
     }
 }
 // Small devices (landscape phones, 576px and up)

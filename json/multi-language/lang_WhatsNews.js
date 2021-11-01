@@ -107,7 +107,7 @@ var arrLang = {
     'NewYear2021_p' : 'Counting our blessings and wishing you more. Happy New Year & Gong Xi Fa Cai！',
     'BC_date' : '18 Dec 2020',
     'BC_h1' : 'Link up the world, play safe!',
-    'BC_h1_p' : 'No one can tamper with the data of the blockchain, WE have developed a series of Blockchain Games by this top-notch technique, which allows players to enjoy the game in a safe and secure environment. Catch up and play now!',
+    'BC_p' : 'No one can tamper with the data of the blockchain, WE have developed a series of Blockchain Games by this top-notch technique, which allows players to enjoy the game in a safe and secure environment. Catch up and play now!',
     'Xmas2020_date' : '25 DEC 2020',
     'Xmas2020_h1' : 'Ho Ho Ho, Happy Holly Days!',
     'Xmas2020_p' : 'WE wish you a Merry Christmas, WE wish you a Merry Christmas, wish you a Merry Christmas and a Happy New Year! May your days be jolly!',
