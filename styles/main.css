@@ -1906,7 +1906,7 @@ ul.tab-content {
     position: absolute;
     -webkit-transform: rotate(225deg);
             transform: rotate(225deg);
-    left: 183px;
+    left: 224px;
     top: 27px;
     z-index: 5;
   }
@@ -10135,14 +10135,14 @@ body:lang(SC) .age-restriction .ageWarning {
 @media (min-width: 992px) {
   body:lang(TC) .subnav-arrow,
   body:lang(SC) .subnav-arrow {
-    left: 150px;
+    left: 185px;
   }
 }
 
 @media (min-width: 1200px) {
   body:lang(TC) .subnav-arrow,
   body:lang(SC) .subnav-arrow {
-    left: 213px;
+    left: 250px;
   }
 }
 
