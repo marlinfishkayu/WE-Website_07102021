@@ -677,7 +677,9 @@
     .game-platform{
         margin-bottom: 6rem;
     }
-    
+    #liveGame.BCgames .header-deco {
+        width: 260px;
+    }
 
 }
 // Large devices (desktops, 992px and up)
@@ -747,6 +749,7 @@
     #liveGame #PK10 .hero-icon {
         width: 400px;
     }
+
  }
 // Extra large devices (large desktops, 1200px and up)
 @media (min-width: 1200px) {

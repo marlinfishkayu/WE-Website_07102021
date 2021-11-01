@@ -4503,6 +4503,9 @@ footer {
   .game-platform {
     margin-bottom: 6rem;
   }
+  #liveGame.BCgames .header-deco {
+    width: 260px;
+  }
 }
 
 @media (min-width: 820px) {
