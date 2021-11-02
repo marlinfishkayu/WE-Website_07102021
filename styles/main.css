@@ -9906,6 +9906,11 @@ body:lang(SC) #liveGame #PK10 .hero-icon {
   padding-top: 7rem;
 }
 
+body:lang(TC) #liveGame.BCgames .header-deco,
+body:lang(SC) #liveGame.BCgames .header-deco {
+  width: 220px;
+}
+
 body:lang(TC) .secondaryBtn,
 body:lang(TC) .main-footer .footer-subscribe .btn,
 body:lang(SC) .secondaryBtn,
@@ -10349,10 +10354,21 @@ body:lang(SC) #liveGame.BCgames .header-deco:before {
   width: 105px;
 }
 
+@media (min-width: 768px) {
+  body:lang(TC) #allLiveGame.AllLottery .bottom-deco,
+  body:lang(SC) #allLiveGame.AllLottery .bottom-deco {
+    width: 250px;
+  }
+}
+
 @media (min-width: 992px) {
   body:lang(TC) #allLiveGame .bottom-deco,
   body:lang(SC) #allLiveGame .bottom-deco {
     width: 278px;
+  }
+  body:lang(TC) #allLiveGame.AllLottery .bottom-deco,
+  body:lang(SC) #allLiveGame.AllLottery .bottom-deco {
+    width: 270px;
   }
 }
 
